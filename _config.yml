@@ -4,3 +4,4 @@ title: "" # the name of your site, e.g. ACME Corp.
 
 kramdown:
   math_engine: katex
+theme: jekyll-theme-cayman
