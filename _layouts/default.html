@@ -1,12 +1,16 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <title>{{ page.title }} - {{ site.title }}</title>
-    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-  </head>
+<!--
+    Type on Strap jekyll theme v2.3.8
+    Theme free for personal and commercial use under the MIT license
+    https://github.com/sylhare/Type-on-Strap/blob/master/LICENSE
+-->
+<html lang="en">
+  {% include default/head.html %}
   <body>
-    {{ content }}
+    {% include default/navbar.html %}
+    <div class="content">
+      {{ content }}
+    </div>
+    {% include default/footer.html %}
   </body>
 </html>
