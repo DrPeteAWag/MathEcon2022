@@ -1,13 +1,15 @@
 ---
-layout: default
-title: "Happy Jekylling!"
+layout: post
+title: Render LaTeX in Jekyll pages
+date: 2020-06-11 08:24
+published: yes
+katex: yes
+tags:
+- Jekyll
+- LaTeX
 ---
-
 ## You're ready to go!
 
-Start developing your Jekyll website.
+Start developing your what Jekyll website.
 
-$$
-\alpha
-$$
-
+$$\LaTeX$$  
