@@ -15,6 +15,5 @@ $$
 
 No maths!
 Test!
-Dopurfgerwfads!!
 
 <iframe src="" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay"></iframe>
