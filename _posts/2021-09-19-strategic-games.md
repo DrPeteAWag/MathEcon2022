@@ -4,6 +4,12 @@ title: "Strategic Games and Nash Equilibria"
 categories: misc
 ---
 
+
+dgjnetbjnrwt
+
+
+
+
 <iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=4e87ba13-ee55-482a-ac46-adb401469b31&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 
