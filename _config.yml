@@ -4,6 +4,11 @@ author:
   email: peter.wagner@york.ac.uk
 
 
+header_pages:
+  # - about.md
+  # - portfolio.md
+
+
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format

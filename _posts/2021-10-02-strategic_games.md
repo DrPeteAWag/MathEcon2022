@@ -22,7 +22,7 @@ allowfullscreen allow="autoplay">
 </iframe>
 
 
----
+<!-- ---
 
 Problems:
 
@@ -30,6 +30,6 @@ $$16.1, 17.1, 20.1, 27.2^*, 31.2^{*}, 33.1^{*}, 34.2^{*}, 37.1,38.1,38.2,42.1^{*
 
 [Book](https://www.economics.utoronto.ca/osborne/igt/nash.pdf)
 
-Will be answered in tutorial session or class.
+Will be answered in tutorial session or class. -->
 
  
