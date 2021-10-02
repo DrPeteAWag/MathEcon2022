@@ -10,11 +10,16 @@ We are going to start off by looking the basic notion of strategic games and Nas
 There are going to be two videos this week, each around 20 minutes. The first video covers the definition and examples of strategic games, the second looks at Nash equilibria and shows how to find them. 
 <br><br>
 
-<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=4e87ba13-ee55-482a-ac46-adb401469b31&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" height="405" width="100%" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=4e87ba13-ee55-482a-ac46-adb401469b31&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all"
+align="center"
+height="500" width="900" 
+style="border: 1px solid #464646;" 
+allowfullscreen allow="autoplay">
+</iframe>
 
-
-
-<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=e1ee0f19-226d-46c8-bd28-adb401543c82&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" height="405" width="100%" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+<br><br>
+<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=e1ee0f19-226d-46c8-bd28-adb401543c82&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" height="500" width="900" style="border: 1px solid #464646;" allowfullscreen allow="autoplay">
+</iframe>
 
 
 ---
