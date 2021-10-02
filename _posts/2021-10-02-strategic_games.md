@@ -5,7 +5,7 @@ categories: misc
 ---
 
 
-$\alpha$
+$$\alpha$$
 
 
 
