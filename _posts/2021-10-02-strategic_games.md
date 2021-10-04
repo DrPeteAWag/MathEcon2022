@@ -31,14 +31,18 @@ The second video looks at Nash equilibria and shows how to find them in a few di
 </iframe>
 
 
-<!-- ---
+---
 
-Problems:
+### Exercises
 
-$$16.1, 17.1, 20.1, 27.2^*, 31.2^{*}, 33.1^{*}, 34.2^{*}, 37.1,38.1,38.2,42.1^{*}, 42.2^{*},\left(44.1^{*}\right), 47.1,47.2,48.1^{*},\left(49.1^{*}\right)$$
+Here is a list of exercises that you can use to practice your understanding of games and Nash equilibrium:
 
-[Book](https://www.economics.utoronto.ca/osborne/igt/nash.pdf)
+$$16.1, 17.1, 20.1, 27.2^*, 31.2^{*}, 33.1^{*}, 34.2^{*}, 37.1,38.1,38.2,42.1^{*}$$
 
-Will be answered in tutorial session or class. -->
+which are take from publicly-available chapters of the book "Introduction to Game Theory" by Martin Osborne). [(Download)](https://www.economics.utoronto.ca/osborne/igt/nash.pdf) 
+
+<!-- $$42.2^{*},\left(44.1^{*}\right), 47.1,47.2,48.1^{*},\left(49.1^{*}\right)$$ -->
+
+You can find the solutions to all unstarred problems in the accompanying solution manual. [(Download)](https://www.economics.utoronto.ca/osborne/igt/solsp5.pdf).
 
  
