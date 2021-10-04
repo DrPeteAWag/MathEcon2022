@@ -4,12 +4,20 @@ title: "Week 1: Strategic Games and Nash Equilibria"
 categories: misc
 ---
 
----
-
-Download lecture slides: [strategic_games.pdf](https://drive.google.com/uc?export=download&id=1RWn5lRE82eJbqwnt13jjD5bZ9j1Yawmy)
 
 ---
+**Downloads:** 
 
+- Download lecture slides: [strategic_games.pdf](https://drive.google.com/uc?export=download&id=1RWn5lRE82eJbqwnt13jjD5bZ9j1Yawmy)
+
+- Selected chapters from "An Introduction to Game Theory" by Martin Osborne: [Download](https://www.economics.utoronto.ca/osborne/igt/nash.pdf)
+
+- Solutions to unstarred problems from Osborne's book: [Download](https://www.economics.utoronto.ca/osborne/igt/solsp5.pdf).
+
+
+---
+
+### Lecture Videos
 
 We are going to start off by looking at the basic notion of strategic games and Nash equilibrium. Despite the simplicity of the games we usually look at, the descriptions are rather general and allow for large, complex games. With such complicated games, it can be quite difficult to find Nash equilibria, specifically in cases in which we do not exactly "pin down" all parameters. For example, sometimes we might want to look at general classes of payoff functions, but even then, we can occasionally obtain quite general results. 
 
@@ -33,13 +41,13 @@ The second video looks at Nash equilibria and shows how to find them in a few di
 
 ---
 
-### Exercises
+**Exercises**
 
 Here is a list of exercises that you can use to practice your understanding of games and Nash equilibrium:
 
 $$16.1, 17.1, 20.1, 27.2^*, 31.2^{*}, 33.1^{*}, 34.2^{*}, 37.1,38.1,38.2,42.1^{*}$$
 
-These problems are taken from publicly-available chapters of the book "Introduction to Game Theory" by Martin Osborne). [(Download)](https://www.economics.utoronto.ca/osborne/igt/nash.pdf) 
+These problems are taken  from publicly-available chapters of the book "Introduction to Game Theory" by Martin Osborne). [(Download)](https://www.economics.utoronto.ca/osborne/igt/nash.pdf) 
 
 <!-- $$42.2^{*},\left(44.1^{*}\right), 47.1,47.2,48.1^{*},\left(49.1^{*}\right)$$ -->
 
