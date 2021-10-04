@@ -4,6 +4,11 @@ title: "Week 1: Strategic Games and Nash Equilibria"
 categories: misc
 ---
 
+---
+Download lecture slides: Strategic Games.pdf](https://drive.google.com/uc?export=download&id=1RWn5lRE82eJbqwnt13jjD5bZ9j1Yawmy)
+
+---
+
 
 We are going to start off by looking the basic notion of strategic games and Nash equilibrium. Despite the simplicity of the games we usually look at, the descriptions are rather general and allow for large, complex games. With such complicated games, it can be quite difficult to find Nash equilibria, specifically in cases in which we do not exactly "pin down" all parameters. For example, sometimes we might want to look at general classes of payoff functions, but even then we can occasionally obtain quite general results. 
 
