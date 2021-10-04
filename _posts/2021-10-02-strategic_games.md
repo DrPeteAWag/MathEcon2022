@@ -45,7 +45,7 @@ The second video looks at Nash equilibria and shows how to find them in a few di
 
 Here is a list of exercises that you can use to practice your understanding of games and Nash equilibrium:
 
-$$16.1, 17.1, 20.1, 27.2^*, 31.2^{*}, 33.1^{*}, 34.2^{*}, 37.1,38.1,38.2,42.1^{*}$$
+$$14.1, 18.1, 25.2^*, 29.2^{*}, 31.1^{*}, 32.2^{*}, 33.1,36.1,37.1,41.1^{*}$$
 
 These problems are taken  from publicly-available chapters of the book "Introduction to Game Theory" by Martin Osborne). [(Download)](https://www.economics.utoronto.ca/osborne/igt/nash.pdf) 
 

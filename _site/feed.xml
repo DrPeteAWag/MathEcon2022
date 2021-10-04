@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-10-04T14:56:18+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mathematical Economics</title><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><entry><title type="html">Week 1: Strategic Games and Nash Equilibria</title><link href="http://localhost:4000/misc/2021/10/02/strategic_games.html" rel="alternate" type="text/html" title="Week 1: Strategic Games and Nash Equilibria" /><published>2021-10-02T00:00:00+01:00</published><updated>2021-10-02T00:00:00+01:00</updated><id>http://localhost:4000/misc/2021/10/02/strategic_games</id><content type="html" xml:base="http://localhost:4000/misc/2021/10/02/strategic_games.html">&lt;hr /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-10-04T16:20:57+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mathematical Economics</title><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><entry><title type="html">Week 1: Strategic Games and Nash Equilibria</title><link href="http://localhost:4000/misc/2021/10/02/strategic_games.html" rel="alternate" type="text/html" title="Week 1: Strategic Games and Nash Equilibria" /><published>2021-10-02T00:00:00+01:00</published><updated>2021-10-02T00:00:00+01:00</updated><id>http://localhost:4000/misc/2021/10/02/strategic_games</id><content type="html" xml:base="http://localhost:4000/misc/2021/10/02/strategic_games.html">&lt;hr /&gt;
 &lt;p&gt;&lt;strong&gt;Downloads:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
@@ -38,7 +38,7 @@
 
 &lt;p&gt;Here is a list of exercises that you can use to practice your understanding of games and Nash equilibrium:&lt;/p&gt;
 
-\[16.1, 17.1, 20.1, 27.2^*, 31.2^{*}, 33.1^{*}, 34.2^{*}, 37.1,38.1,38.2,42.1^{*}\]
+\[14.1, 18.1, 25.2^*, 29.2^{*}, 31.1^{*}, 32.2^{*}, 33.1,36.1,37.1,41.1^{*}\]
 
 &lt;p&gt;These problems are taken  from publicly-available chapters of the book “Introduction to Game Theory” by Martin Osborne). &lt;a href=&quot;https://www.economics.utoronto.ca/osborne/igt/nash.pdf&quot;&gt;(Download)&lt;/a&gt;&lt;/p&gt;
 
