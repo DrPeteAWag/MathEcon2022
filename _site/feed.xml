@@ -1,9 +1,65 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-10-04T16:44:51+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mathematical Economics</title><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><entry><title type="html">Week 1: Strategic Games and Nash Equilibria</title><link href="http://localhost:4000/misc/2021/10/02/strategic_games.html" rel="alternate" type="text/html" title="Week 1: Strategic Games and Nash Equilibria" /><published>2021-10-02T00:00:00+01:00</published><updated>2021-10-02T00:00:00+01:00</updated><id>http://localhost:4000/misc/2021/10/02/strategic_games</id><content type="html" xml:base="http://localhost:4000/misc/2021/10/02/strategic_games.html">&lt;hr /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-10-10T13:18:29+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mathematical Economics, 2021/2022</title><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><entry><title type="html">2nd week: Best responses and domination</title><link href="http://localhost:4000/2021/10/09/week2.html" rel="alternate" type="text/html" title="2nd week: Best responses and domination" /><published>2021-10-09T00:00:00+01:00</published><updated>2021-10-09T00:00:00+01:00</updated><id>http://localhost:4000/2021/10/09/week2</id><content type="html" xml:base="http://localhost:4000/2021/10/09/week2.html">&lt;hr /&gt;
 &lt;p&gt;&lt;strong&gt;Downloads:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;Download lecture slides: &lt;a href=&quot;https://drive.google.com/uc?export=download&amp;amp;id=1RWn5lRE82eJbqwnt13jjD5bZ9j1Yawmy&quot;&gt;strategic_games.pdf&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;Download lecture slides (starting with slide): &lt;a href=&quot;https://drive.google.com/uc?export=download&amp;amp;id=1RWn5lRE82eJbqwnt13jjD5bZ9j1Yawmy&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Selected chapters from “An Introduction to Game Theory” by Martin Osborne: &lt;a href=&quot;https://www.economics.utoronto.ca/osborne/igt/nash.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Solutions to unstarred problems from Osborne’s book: &lt;a href=&quot;https://www.economics.utoronto.ca/osborne/igt/solsp5.pdf&quot;&gt;Download&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;lecture-videos&quot;&gt;Lecture Videos&lt;/h3&gt;
+
+&lt;p&gt;This week we are going to the continue talking about strategic games and Nash equilibria. Our focus will be on “best responses” a concept that is needed to solve more complicated games with many players and actions.&lt;/p&gt;
+
+&lt;p&gt;In the first video, I give you a motivating example, the formal definition of best responses and then some illustrations. 
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=71e90f4b-7dda-4f63-9ced-adbc010affe7&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; align=&quot;center&quot; height=&quot;500&quot; width=&quot;900&quot; allowfullscreen=&quot;&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The second video expands on this a little, and gives two further examples, each with a continuum of actions:
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=82c09985-f629-47b2-840d-adbc01137bb8&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; align=&quot;center&quot; height=&quot;500&quot; width=&quot;900&quot; allowfullscreen=&quot;&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;In the last video, I talk about the notion of domination, and give an example of an equilibrium in weakly dominated strategies in a voting game. 
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=ca32290d-64ec-4bd5-b4d0-adbc011b368e&amp;amp;autoplay=false&amp;amp;offerviewer=false&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; align=&quot;center&quot; height=&quot;500&quot; width=&quot;900&quot; allowfullscreen=&quot;&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Here is a list of exercises for this week from &lt;a href=&quot;https://www.economics.utoronto.ca/osborne/igt/nash.pdf&quot;&gt;“Introduction to Game Theory” by Martin Osborne.&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Exercise 35.1: Finding Nash equilibria using best response functions (Solution: 37.1)&lt;/li&gt;
+  &lt;li&gt;Exercise 37.1: Dividing money (Solution: 38.2)&lt;/li&gt;
+  &lt;li&gt;Exercise 39.1: Strict and nonstrict Nash equilibria (Solution: 41.1)&lt;/li&gt;
+  &lt;li&gt;Exercise 46.1: Strict equilibria and dominated actions (Solution: 47.1)&lt;/li&gt;
+  &lt;li&gt;Exercise 46.2: Nash equilibrium and weakly dominated actions (Solution: 47.1)&lt;/li&gt;
+  &lt;li&gt;Exercise 49.1: Other Nash equilibria of the game modeling collective decision-making (Solution: 50.1)&lt;/li&gt;
+  &lt;li&gt;Exercise 50.1: Symmetric strategic games (Solution: 47.1)&lt;/li&gt;
+  &lt;li&gt;Exercise 51.1: Equilibrium for pairwise interactions in a single population (Solution: 47.1)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The numbers in parenthesis at the end are the numbers of the solutions in the &lt;a href=&quot;https://www.economics.utoronto.ca/osborne/igt/solsp5.pdf&quot;&gt;accompanying solution manual.&lt;/a&gt;&lt;/p&gt;</content><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><summary type="html">Downloads:</summary></entry><entry><title type="html">1st week: Strategic Games and Nash Equilibria</title><link href="http://localhost:4000/2021/10/02/week1.html" rel="alternate" type="text/html" title="1st week: Strategic Games and Nash Equilibria" /><published>2021-10-02T00:00:00+01:00</published><updated>2021-10-02T00:00:00+01:00</updated><id>http://localhost:4000/2021/10/02/week1</id><content type="html" xml:base="http://localhost:4000/2021/10/02/week1.html">&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Downloads:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Download lecture slides: &lt;a href=&quot;https://drive.google.com/uc?export=download&amp;amp;id=1RWn5lRE82eJbqwnt13jjD5bZ9j1Yawmy&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Selected chapters from “An Introduction to Game Theory” by Martin Osborne: &lt;a href=&quot;https://www.economics.utoronto.ca/osborne/igt/nash.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
@@ -38,10 +94,8 @@
 
 &lt;p&gt;Here is a list of exercises that you can use to practice your understanding of games and Nash equilibrium:&lt;/p&gt;
 
-\[14.1, 18.1, 25.2^*, 29.2^{*}, 31.1^{*}, 32.2^{*}, 33.1,36.1,37.1,41.1^{*}\]
+\[14.1, 18.1, 25.2^*, 29.2^{*}, 31.1^{*}, 32.2^{*}, 33.1,36.1\]
 
 &lt;p&gt;These problems are taken  from publicly-available chapters of the book “Introduction to Game Theory” by Martin Osborne. &lt;a href=&quot;https://www.economics.utoronto.ca/osborne/igt/nash.pdf&quot;&gt;(Download)&lt;/a&gt;&lt;/p&gt;
 
-&lt;!-- $$42.2^{*},\left(44.1^{*}\right), 47.1,47.2,48.1^{*},\left(49.1^{*}\right)$$ --&gt;
-
-&lt;p&gt;You can find the solutions to all unstarred problems in the accompanying solution manual. &lt;a href=&quot;https://www.economics.utoronto.ca/osborne/igt/solsp5.pdf&quot;&gt;(Download)&lt;/a&gt;.&lt;/p&gt;</content><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><category term="misc" /><summary type="html">Downloads:</summary></entry></feed>
+&lt;p&gt;You can find the solutions to all unstarred problems in the accompanying solution manual. &lt;a href=&quot;https://www.economics.utoronto.ca/osborne/igt/solsp5.pdf&quot;&gt;(Download)&lt;/a&gt;.&lt;/p&gt;</content><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><summary type="html">Downloads:</summary></entry></feed>
