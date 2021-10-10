@@ -1,0 +1,58 @@
+I"�<hr />
+<p><strong>Downloads:</strong></p>
+
+<ul>
+  <li>
+    <p>Download lecture slides (starting with slide): <a href="https://drive.google.com/uc?export=download&amp;id=1RWn5lRE82eJbqwnt13jjD5bZ9j1Yawmy">Download</a></p>
+  </li>
+  <li>
+    <p>Selected chapters from “An Introduction to Game Theory” by Martin Osborne: <a href="https://www.economics.utoronto.ca/osborne/igt/nash.pdf">Download</a></p>
+  </li>
+  <li>
+    <p>Solutions to unstarred problems from Osborne’s book: <a href="https://www.economics.utoronto.ca/osborne/igt/solsp5.pdf">Download</a>.</p>
+  </li>
+</ul>
+
+<hr />
+
+<h3 id="lecture-videos">Lecture Videos</h3>
+
+<p>This week we are going to the continue talking about strategic games and Nash equilibria. Our focus will be on “best responses” a concept that is needed to solve more complicated games with many players and actions.</p>
+
+<p>In the first video, I give you a motivating example, the formal definition of best responses and then some illustrations. 
+<br /><br /></p>
+
+<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=71e90f4b-7dda-4f63-9ced-adbc010affe7&amp;autoplay=false&amp;offerviewer=true&amp;showtitle=false&amp;showbrand=false&amp;captions=false&amp;interactivity=all" align="center" height="500" width="900" allowfullscreen="">
+</iframe>
+
+<p><br /></p>
+
+<p>The second video expands on this a little, and gives two further examples, each with a continuum of actions:
+<br /><br /></p>
+<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=82c09985-f629-47b2-840d-adbc01137bb8&amp;autoplay=false&amp;offerviewer=true&amp;showtitle=false&amp;showbrand=false&amp;captions=false&amp;interactivity=all" align="center" height="500" width="900" allowfullscreen="">
+</iframe>
+
+<p><br /></p>
+
+<p>In the last video, I talk about the notion of domination, and give an example of an equilibrium in weakly dominated strategies in a voting game. 
+<br /><br /></p>
+<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=ca32290d-64ec-4bd5-b4d0-adbc011b368e&amp;autoplay=false&amp;offerviewer=false&amp;showtitle=false&amp;showbrand=false&amp;captions=false&amp;interactivity=all" align="center" height="500" width="900" allowfullscreen="">
+</iframe>
+
+<hr />
+
+<p>Here is a list of exercises for this week from <a href="https://www.economics.utoronto.ca/osborne/igt/nash.pdf">“Introduction to Game Theory” by Martin Osborne.</a></p>
+
+<ul>
+  <li>Exercise 35.1: Finding Nash equilibria using best response functions (Solution: 37.1)</li>
+  <li>Exercise 37.1: Dividing money (Solution: 38.2)</li>
+  <li>Exercise 39.1: Strict and nonstrict Nash equilibria (Solution: 41.1)</li>
+  <li>Exercise 46.1: Strict equilibria and dominated actions (Solution: 47.1)</li>
+  <li>Exercise 46.2: Nash equilibrium and weakly dominated actions (Solution: 47.1)</li>
+  <li>Exercise 49.1: Other Nash equilibria of the game modeling collective decision-making (Solution: 50.1)</li>
+  <li>Exercise 50.1: Symmetric strategic games (Solution: 47.1)</li>
+  <li>Exercise 51.1: Equilibrium for pairwise interactions in a single population (Solution: 47.1)</li>
+</ul>
+
+<p>You can find the solutions to these problems in the <a href="https://www.economics.utoronto.ca/osborne/igt/solsp5.pdf">accompanying solution manual.</a>.</p>
+:ET
