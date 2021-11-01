@@ -17,9 +17,7 @@ permalink:
 - Mixed Strategy Nash equilibrium [PDF](https://drive.google.com/uc?export=download&id=1Fl2Wjm4z0DKYre9jMzQVjes69q8kB8c9)
 - Extensive Games [PDF](https://drive.google.com/uc?export=download&id=1NlDvOZhW5ZdEWxOg8UzDY_EYCoFfcd8h)
 
-## Exercises
 
-- 
 
 ## Problem Sets
 
