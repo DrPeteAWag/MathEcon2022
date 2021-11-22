@@ -23,6 +23,6 @@ permalink:
 
 ## Problem Sets
 
-1. Problem Set 1 [PDF](https://drive.google.com/uc?export=download&id=1SeTSwED0jVzKSH0eYwg3exo7-8QiJ84H) | Solutions [PDF](https://drive.google.com/uc?export=download&id=1E29oqnhArIosxUm6f-OATshnZ6qKKCOL)
-2. Problem Set 2 [PDF](https://drive.google.com/uc?export=download&id=1NSPfsDmp7Q0Mzv1hybmvZsk9xe6Ep1vl) | Solutions [PDF](https://drive.google.com/uc?export=download&id=1Vn2o62g5JPNlEprPeHyy21T1mAsIqkh1)
+1. Problem Set 1 [PDF](https://drive.google.com/uc?export=download&id=1SeTSwED0jVzKSH0eYwg3exo7-8QiJ84H) \| Solutions [PDF](https://drive.google.com/uc?export=download&id=1E29oqnhArIosxUm6f-OATshnZ6qKKCOL)
+2. Problem Set 2 [PDF](https://drive.google.com/uc?export=download&id=1NSPfsDmp7Q0Mzv1hybmvZsk9xe6Ep1vl) \| Solutions [PDF](https://drive.google.com/uc?export=download&id=1Vn2o62g5JPNlEprPeHyy21T1mAsIqkh1)
 3. Problem Set 3 [PDF](https://drive.google.com/uc?export=download&id=1qeXMg5Ji1yHHocPz-TFeV2Y5ufmRysri)
