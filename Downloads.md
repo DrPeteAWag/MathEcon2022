@@ -12,7 +12,7 @@ permalink:
 
 ## Lecture Slides
 
-1. Strategic games & Nash equilibrium [PDF](https://drive.google.com/uc?export=download&id=1RWn5lRE82eJbqwnt13jjD5bZ9j1Yawmy)
+1. Strategic games & Nash equilibrium [PDF](https://drive.google.com/uc?export=download&id=1StvFev88Y4miOZidd7grptv1Cjnz2Njz)
 2. Nash equilibrium Illustrations [PDF](https://drive.google.com/uc?export=download&id=1q0ZQP-GktYoK6V4fnAhP2-366UidDkIF)
 3. Mixed Strategy Nash equilibrium [PDF](https://drive.google.com/uc?export=download&id=1Fl2Wjm4z0DKYre9jMzQVjes69q8kB8c9)
 4. Extensive Games [PDF](https://drive.google.com/uc?export=download&id=1NlDvOZhW5ZdEWxOg8UzDY_EYCoFfcd8h)
