@@ -4,9 +4,6 @@ title: Downloads
 permalink: 
 ---
 
-# Spring Term 2022
-
-
 ## Textbook
 
 - Selected chapters from "An Introduction to Game Theory" by Martin Osborne: [PDF](https://www.economics.utoronto.ca/osborne/igt/nash.pdf)
@@ -23,12 +20,11 @@ permalink:
 4. Social Choice [PDF](https://drive.google.com/uc?export=download&id=15ERVu9ouEN3U2PqzB6LiWh_vsOikIlB4)
 5. Mechanism Design [PDF](https://drive.google.com/uc?export=download&id=1lhyULTYaqejFRvVIGU83KxjVlWULkEt2)
 
+
 #### Problem Sets
 
 1. Problem Set 1  [PDF](https://drive.google.com/uc?export=download&id=1WpbwdKDENGclB4pDBqKZe1nKssUxpoCP)
-
 2.  Problem Set 2 [PDF](https://drive.google.com/uc?export=download&id=18mCoz3VzeH-diwuaOcw9qkRvfETuE5_X)
-
 3. Problem Set 3 [PDF](https://drive.google.com/uc?export=download&id=1ITGakaZqzNEHbnD2VwtVrz18dJT9G6IU)
 
 
