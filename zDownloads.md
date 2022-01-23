@@ -1,16 +1,10 @@
 ---
 layout: page
 title: Downloads
-permalink: 
 ---
 
-## Textbook
 
-- Selected chapters from "An Introduction to Game Theory" by Martin Osborne: [PDF](https://www.economics.utoronto.ca/osborne/igt/nash.pdf)
-- Solutions to unstarred problems from Osborne's book: [PDF](https://www.economics.utoronto.ca/osborne/igt/solsp5.pdf)
-
-
-## Spring Term 2022
+## Spring Term
 
 #### Lecture Slides
 
@@ -30,6 +24,11 @@ permalink:
 
 
 ## Autumn Term 
+
+#### Textbook
+
+- Selected chapters from "An Introduction to Game Theory" by Martin Osborne: [PDF](https://www.economics.utoronto.ca/osborne/igt/nash.pdf)
+- Solutions to unstarred problems from Osborne's book: [PDF](https://www.economics.utoronto.ca/osborne/igt/solsp5.pdf)
 
 #### Lecture Slides
 
