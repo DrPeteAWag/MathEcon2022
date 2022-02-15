@@ -1,0 +1,41 @@
+I"�
+<p><strong>What are Mixed Strategies?</strong></p>
+
+<p>We start with a simple introduction to mixed strategies, what they are and how we use them in simple 2x2 games. For many this will be  revision, and you may skip this video if you’re sufficiently familiar with these ideas.</p>
+
+<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=03db8a05-d7ce-491d-bb6d-adca00ea8159&amp;autoplay=false&amp;offerviewer=true&amp;showtitle=false&amp;showbrand=false&amp;captions=false&amp;interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay"></iframe>
+
+<p>The next videos goes a bit more into detail, and discusses the essential differences between pure strategy and mixed strategy equilbria.</p>
+
+<p><strong>Mixed Strategy Nash equilibrium</strong></p>
+
+<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=21dedfc9-e661-4408-b450-adca00fc7c2c&amp;autoplay=false&amp;offerviewer=true&amp;showtitle=false&amp;showbrand=false&amp;captions=false&amp;interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay"></iframe>
+
+<p>The next two video illustrate the notion of mixed strategies using two slightly more involved examples. The first is a game between two players, a consumer who relies on the advice of an expert who can benefit from lying.</p>
+
+<p><strong>Example: Expert Diagnosis</strong></p>
+<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=66ea15fe-33a2-40d9-9c2a-adca01031842&amp;autoplay=false&amp;offerviewer=true&amp;showtitle=false&amp;showbrand=false&amp;captions=false&amp;interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay"></iframe>
+
+<p>The second game is game about the bystander effect, and provides an interesting example of how game theory can help explain seemingly surprising behaviours.</p>
+
+<p><strong>Example: Volunteer’s Dilemma</strong></p>
+<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=8a55bf41-ef28-4607-a910-adca0108f1e2&amp;autoplay=false&amp;offerviewer=true&amp;showtitle=false&amp;showbrand=false&amp;captions=false&amp;interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay"></iframe>
+
+<hr />
+
+<p><strong>Exercises</strong></p>
+
+<ol>
+  <li>Find the mixed-strategy Nash equilibrium of the following normal-form game.</li>
+</ol>
+
+\[\begin{array}{c|c|c|} 
+&amp; L&amp; R \\
+\hline T &amp; 2,1 &amp; 0,2 \\
+\hline B &amp; 1,2 &amp; 3,0 \\
+\hline \end{array}\]
+
+<ol>
+  <li>Find the mixed strategy Nash equilibrium of the game “Rock-Paper-Scissors”</li>
+</ol>
+:ET

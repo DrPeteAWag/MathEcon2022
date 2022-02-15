@@ -1,101 +1,309 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-10-10T20:13:47+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mathematical Economics, 2021/2022</title><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><entry><title type="html">2nd week: Best responses and domination</title><link href="http://localhost:4000/2021/10/09/week2.html" rel="alternate" type="text/html" title="2nd week: Best responses and domination" /><published>2021-10-09T00:00:00+01:00</published><updated>2021-10-09T00:00:00+01:00</updated><id>http://localhost:4000/2021/10/09/week2</id><content type="html" xml:base="http://localhost:4000/2021/10/09/week2.html">&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;Downloads:&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-15T12:34:27+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mathematical Economics, 2021/2022</title><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><entry><title type="html">Spring Term, Week 6: Social Choice</title><link href="http://localhost:4000/2022/02/14/week6.html" rel="alternate" type="text/html" title="Spring Term, Week 6: Social Choice" /><published>2022-02-14T00:00:00+00:00</published><updated>2022-02-14T00:00:00+00:00</updated><id>http://localhost:4000/2022/02/14/week6</id><content type="html" xml:base="http://localhost:4000/2022/02/14/week6.html">&lt;h3 id=&quot;lecture-videos&quot;&gt;Lecture Videos&lt;/h3&gt;
 
+&lt;p&gt;This week we’re going to look at the theory of social choice. The premise is simple: starting from a group of individuals, and their individual preferences, what can we say about the preferences of the group as a whole? This is for example what elections are supposed to do. We’ll see that aggregating preferences is generally impossible, unless one imposes relatively strong restrictions or accepts that the social ranking has some undesirable properties.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The first video, offers an overview, defines the notion of a social choice problem and provides some notation, definitions and assumptions.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=109261a1-3908-45da-b975-acd00106c02c&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;In the second video, we consider Social Welfare Functions (Social Rankings) and their properties, and we learn about Arrow’s Impossibility Theorem.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=0533d610-a5ec-4226-b75c-acd000f281dc&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;In the third video, we consider Social Choice Functions* and their properties, and we learn about the Gibbard Satthethwaite Theorem.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=c9e91d84-f0cb-4976-94bf-acd000fedf8a&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;readings&quot;&gt;Readings:&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;Download lecture slides (starting with slide 19): &lt;a href=&quot;https://drive.google.com/uc?export=download&amp;amp;id=1StvFev88Y4miOZidd7grptv1Cjnz2Njz&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;Chapter 21 in Mas-Colell, et al. (1995). Microeconomic Theory. Oxford University Press&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Selected chapters from “An Introduction to Game Theory” by Martin Osborne: &lt;a href=&quot;https://www.economics.utoronto.ca/osborne/igt/nash.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Solutions to unstarred problems from Osborne’s book: &lt;a href=&quot;https://www.economics.utoronto.ca/osborne/igt/solsp5.pdf&quot;&gt;Download&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;Chapter 4 in Diamantaras, D., et al. (2009). A Toolbox for Economic Design. Macmillan.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;lecture-videos&quot;&gt;Lecture Videos&lt;/h3&gt;
-
-&lt;p&gt;This week we are going to the continue talking about strategic games and Nash equilibria. Our focus will be on “best responses” a concept that is needed to solve more complicated games with many players and actions.&lt;/p&gt;
-
-&lt;p&gt;In the first video, I give you a motivating example, the formal definition of best responses and then some illustrations. 
-&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=71e90f4b-7dda-4f63-9ced-adbc010affe7&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; align=&quot;center&quot; height=&quot;500&quot; width=&quot;900&quot; allowfullscreen=&quot;&quot;&gt;
-&lt;/iframe&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;The second video expands on this a little, and gives two further examples, each with a continuum of actions:
-&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=82c09985-f629-47b2-840d-adbc01137bb8&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; align=&quot;center&quot; height=&quot;500&quot; width=&quot;900&quot; allowfullscreen=&quot;&quot;&gt;
-&lt;/iframe&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;In the last video, I talk about the notion of domination, and give an example of an equilibrium in weakly dominated strategies in a voting game. 
-&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=ca32290d-64ec-4bd5-b4d0-adbc011b368e&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; align=&quot;center&quot; height=&quot;500&quot; width=&quot;900&quot; allowfullscreen=&quot;&quot;&gt;
-&lt;/iframe&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Here is a list of exercises for this week from &lt;a href=&quot;https://www.economics.utoronto.ca/osborne/igt/nash.pdf&quot;&gt;“Introduction to Game Theory” by Martin Osborne.&lt;/a&gt;&lt;/p&gt;
-
+&lt;h3 id=&quot;additional-resources&quot;&gt;Additional Resources:&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;Exercise 35.1: Finding Nash equilibria using best response functions (Solution: 37.1)&lt;/li&gt;
-  &lt;li&gt;Exercise 37.1: Dividing money (Solution: 38.2)&lt;/li&gt;
-  &lt;li&gt;Exercise 39.1: Strict and nonstrict Nash equilibria (Solution: 41.1)&lt;/li&gt;
-  &lt;li&gt;Exercise 46.1: Strict equilibria and dominated actions (Solution: 47.1)&lt;/li&gt;
-  &lt;li&gt;Exercise 46.2: Nash equilibrium and weakly dominated actions (Solution: 47.1)&lt;/li&gt;
-  &lt;li&gt;Exercise 49.1: Other Nash equilibria of the game modeling collective decision-making (Solution: 50.1)&lt;/li&gt;
-  &lt;li&gt;Exercise 50.1: Symmetric strategic games (Solution: 47.1)&lt;/li&gt;
-  &lt;li&gt;Exercise 51.1: Equilibrium for pairwise interactions in a single population (Solution: 47.1)&lt;/li&gt;
+  &lt;li&gt;Wikipedia: &lt;a href=&quot;https://www.google.com/url?q=https://en.wikipedia.org/wiki/Social_choice_theory&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1641839001545158&amp;amp;usg=AOvVaw0p1d5nap1O62Hfxthtp9US&quot;&gt;Social Choice Theory&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Wikipedia: &lt;a href=&quot;https://www.google.com/url?q=https://en.wikipedia.org/wiki/Arrow%2527s_impossibility_theorem&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1641839001545571&amp;amp;usg=AOvVaw2EJXGp1xKax66Aq4YFo5Br&quot;&gt;Arrows Impossibility Theorem&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Wikipedia: &lt;a href=&quot;https://www.google.com/url?q=https://en.wikipedia.org/wiki/Gibbard%25E2%2580%2593Satterthwaite_theorem&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1641839001545975&amp;amp;usg=AOvVaw22kqFT5DwWvoH3imWWRtrl&quot;&gt;Gibbard Satthertwaite Theorem&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><summary type="html">Lecture Videos</summary></entry><entry><title type="html">Spring Term, Week 5: Seminars I</title><link href="http://localhost:4000/2022/02/07/week5.html" rel="alternate" type="text/html" title="Spring Term, Week 5: Seminars I" /><published>2022-02-07T00:00:00+00:00</published><updated>2022-02-07T00:00:00+00:00</updated><id>http://localhost:4000/2022/02/07/week5</id><content type="html" xml:base="http://localhost:4000/2022/02/07/week5.html">&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Solution to Problem 1:&lt;/p&gt;
+
+    &lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=0aa9f382-be33-4b78-839a-acc600f3ae9d&amp;amp;autoplay=false&amp;amp;offerviewer=false&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Solution to Problem 2:&lt;/p&gt;
+
+    &lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=42665e40-e6b6-4b5d-b6e1-acc6012468d3&amp;amp;autoplay=false&amp;amp;offerviewer=false&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><summary type="html">Solution to Problem 1:</summary></entry><entry><title type="html">Spring Term, Week 4: Extensive games with incomplete information</title><link href="http://localhost:4000/2022/01/31/week4.html" rel="alternate" type="text/html" title="Spring Term, Week 4: Extensive games with incomplete information" /><published>2022-01-31T00:00:00+00:00</published><updated>2022-01-31T00:00:00+00:00</updated><id>http://localhost:4000/2022/01/31/week4</id><content type="html" xml:base="http://localhost:4000/2022/01/31/week4.html">&lt;h3 id=&quot;lecture-videos&quot;&gt;Lecture Videos&lt;/h3&gt;
+&lt;p&gt;We now move on to extensive games with incomplete information. These games are equivalent to extensive games with imperfect information (unobserved &lt;em&gt;actions&lt;/em&gt;, rather than unobserved &lt;em&gt;types&lt;/em&gt;) and “chance” moves by nature, and we will talk about such games only in these terms. The main difference to Bayesian games is that players move sequentially and learn during the game, and the challenge is then to model how players learn and what beliefs they hold at each stage of the game.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;In the first video, I provide a motivating example that illustrates the kind of challenges that we encounter when dealing with extensive games with incomplete information.  In particular, I point to two new requirements that will lie at the heart of the equilibrium notion that we will need for such games: sequential rationality and belief consistency.&lt;/p&gt;
+
+    &lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=87d666ec-439d-45d6-8318-acc1015c310f&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;In the second video, I define and discuss the notion of “sequential rationality”.&lt;/p&gt;
+
+    &lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=4fdf9e2c-0daf-4261-b3ff-acc1015c3b0c&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;In the third video, I define and discuss the notion of “belief consistency”.&lt;/p&gt;
+
+    &lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=1cd283ed-af17-467b-b77d-acc1015c431b&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The fourth video provides a general definition of weak perfect Bayesian equilibrium, and I provide some context and illustrate one of its weaknesses with an example.&lt;/p&gt;
+
+    &lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=bbfea946-4c8c-4d7c-8a3f-acc5009efe9c&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The last two videos provide examples of extensive games with incomplete information&lt;/p&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;Example  1: “Card Game”
+        &lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=eb65d576-fd18-409c-9863-acc10164e492&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Example  2:“Spence’s Signalling game”&lt;/p&gt;
+
+        &lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=0b5094f9-8d45-4f5e-b49f-acc10169f242&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;There are more nice examples one Wikipedia that you can use to practice your understanding:&lt;/p&gt;
+    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Perfect_Bayesian_equilibrium#Gift_game_1&quot;&gt;Gift game 1&lt;/a&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Perfect_Bayesian_equilibrium#Gift_game_1&quot;&gt; &lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Perfect_Bayesian_equilibrium#Gift_game_2&quot;&gt;Gift game  2&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Perfect_Bayesian_equilibrium#Repeated_public-good_game&quot;&gt;Repeated public good game&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Signaling_game#Reputation_game&quot;&gt;Reputation game&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Signaling_game#Education_game&quot;&gt;Education  game&lt;/a&gt; (a variation of the game in Example 2)&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Signaling_game#Beer-Quiche_game&quot;&gt;Beer Quiche game&lt;/a&gt; .
+###
+        &lt;h3 id=&quot;readings&quot;&gt;Readings:&lt;/h3&gt;
+        &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- Chapter 10 in Osborne, M. J. (2009). An Introduction to Game Theory. Oxford University Press
+- Chapter 4 in Gibbons, R. (1992). Game Theory for Applied Economists. Princeton University Press. ### Additional Resources: 
+- Wikipedia: Signalling Games: [https://en.wikipedia.org/wiki/Signaling_game](https://en.wikipedia.org/wiki/Signaling_game)
+- Wikipedia: Perfect Bayesian Equilibrium [https://en.wikipedia.org/wiki/Perfect_Bayesian_equilibrium](https://en.wikipedia.org/wiki/Perfect_Bayesian_equilibrium)
+- Wikipedia: Extensive games [https://en.wikipedia.org/wiki/Extensive-form_game#Incomplete_information)](https://en.wikipedia.org/wiki/Extensive-form_game#Incomplete_information)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;        &lt;/div&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><summary type="html">Lecture Videos We now move on to extensive games with incomplete information. These games are equivalent to extensive games with imperfect information (unobserved actions, rather than unobserved types) and “chance” moves by nature, and we will talk about such games only in these terms. The main difference to Bayesian games is that players move sequentially and learn during the game, and the challenge is then to model how players learn and what beliefs they hold at each stage of the game.</summary></entry><entry><title type="html">Spring Term, Week 3: Bayesian games</title><link href="http://localhost:4000/2022/01/24/week3.html" rel="alternate" type="text/html" title="Spring Term, Week 3: Bayesian games" /><published>2022-01-24T00:00:00+00:00</published><updated>2022-01-24T00:00:00+00:00</updated><id>http://localhost:4000/2022/01/24/week3</id><content type="html" xml:base="http://localhost:4000/2022/01/24/week3.html">&lt;h3 id=&quot;lecture-videos&quot;&gt;Lecture Videos&lt;/h3&gt;
+&lt;p&gt;This week, we will be looking at “Bayesian games” which are strategic games in which players have private information. After a quick detour into some modelling aspects, we look at general definitions and how to solve for equilibria. To view the videos in full screen, open them in a new tab.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;In the &lt;em&gt;first video&lt;/em&gt;, I talk about the notion of “types” which we use to represent the players’ different states of knowledge in strategic games.&lt;/p&gt;
+
+    &lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=0c94f52e-d0bf-4e86-9616-acba012115a8&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;In the &lt;em&gt;second video&lt;/em&gt;, I walk you through a first example of a strategic game I call the “meeting game” (which may or may not be inspired by my wife’s weekly meetings with her highly motivated running buddy). The first step is to observe that strategic games with incomplete information are indeed equivalent to extensive games with unobservable actions and moves by Nature. In this sense, the notion of Nash equilibrium that you have seen before can be readily applied. I show you how to find the (pure strategy Nash equilibrium) for this game.&lt;/p&gt;
+
+    &lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=4fafd131-31a3-4fa7-a2e4-acba01450f85&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The &lt;em&gt;third video&lt;/em&gt; provides a general definition of Bayesian games and Bayes-Nash equilibrium.&lt;/p&gt;
+
+    &lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=9318fcd3-02c5-4832-8c0d-acbb00e4bce4&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The &lt;em&gt;last two videos&lt;/em&gt; provide further examples of games with incomplete information&lt;/p&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;Example 1&lt;/strong&gt;:  “More information can be bad”&lt;/p&gt;
+
+        &lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=14f193e2-fc0f-4340-8efe-acbb00e9ef2c&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;Example 2&lt;/strong&gt;: “Cournot competition with private cost”&lt;/p&gt;
+
+        &lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=f78caa58-ebb9-4c5e-9089-acbb00f8eb71&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;readings&quot;&gt;Readings:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Chapter 9 in Osborne, M. J. (2009). An Introduction to Game Theory. Oxford University Press&lt;/li&gt;
+  &lt;li&gt;Chapter 3 in Gibbons, R. (1992). Game Theory for Applied Economists. Princeton University Press.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;The numbers in parenthesis at the end are the numbers of the solutions in the &lt;a href=&quot;https://www.economics.utoronto.ca/osborne/igt/solsp5.pdf&quot;&gt;accompanying solution manual.&lt;/a&gt;&lt;/p&gt;</content><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><summary type="html">Downloads:</summary></entry><entry><title type="html">1st week: Strategic Games and Nash Equilibria</title><link href="http://localhost:4000/2021/10/02/week1.html" rel="alternate" type="text/html" title="1st week: Strategic Games and Nash Equilibria" /><published>2021-10-02T00:00:00+01:00</published><updated>2021-10-02T00:00:00+01:00</updated><id>http://localhost:4000/2021/10/02/week1</id><content type="html" xml:base="http://localhost:4000/2021/10/02/week1.html">&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;Downloads:&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&quot;additional-resources&quot;&gt;Additional Resources:&lt;/h3&gt;
+&lt;p&gt;Wikipedia article on Bayesian Games: &lt;a href=&quot;https://en.wikipedia.org/wiki/Bayesian_game&quot;&gt;https://en.wikipedia.org/wiki/Bayesian_game&lt;/a&gt;&lt;/p&gt;</content><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><summary type="html">Lecture Videos This week, we will be looking at “Bayesian games” which are strategic games in which players have private information. After a quick detour into some modelling aspects, we look at general definitions and how to solve for equilibria. To view the videos in full screen, open them in a new tab.</summary></entry><entry><title type="html">Spring Term, Week 2: Review of foundational concepts</title><link href="http://localhost:4000/2022/01/17/week2.html" rel="alternate" type="text/html" title="Spring Term, Week 2: Review of foundational concepts" /><published>2022-01-17T00:00:00+00:00</published><updated>2022-01-17T00:00:00+00:00</updated><id>http://localhost:4000/2022/01/17/week2</id><content type="html" xml:base="http://localhost:4000/2022/01/17/week2.html">&lt;h3 id=&quot;lecture-videos&quot;&gt;Lecture Videos&lt;/h3&gt;
+&lt;p&gt;This week, we will be focusing our attention on a review of some basic concepts from probability theory and statistics. To view the videos in full screen, open them in a new tab.&lt;/p&gt;
 
+&lt;ol&gt;
+  &lt;li&gt;In my first video, I review the notions of probability distributions, discrete and continuous random variables, and expectation.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=70b79d00-fe67-42bb-a082-acb3013da51b&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;In my second video, I revisit the notion of conditional probability, and Bayes’ rule and  independence.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=dda0d5a6-37c3-47c4-8a43-acb3015a1aa5&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;In the third video, I then explain how we use these concepts to incorporate random draws into decision problems, which we will later extend to game theoretic settings.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=d5d7e4ab-93db-44ac-8262-acb30166776b&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;readings&quot;&gt;Readings:&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Download lecture slides: &lt;a href=&quot;https://drive.google.com/uc?export=download&amp;amp;id=1RWn5lRE82eJbqwnt13jjD5bZ9j1Yawmy&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Selected chapters from “An Introduction to Game Theory” by Martin Osborne: &lt;a href=&quot;https://www.economics.utoronto.ca/osborne/igt/nash.pdf&quot;&gt;Download&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Solutions to unstarred problems from Osborne’s book: &lt;a href=&quot;https://www.economics.utoronto.ca/osborne/igt/solsp5.pdf&quot;&gt;Download&lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
+  &lt;li&gt;Grinstead, C. M., &amp;amp; Snell, J. L. (2012). Introduction to probability. American Mathematical Soc.. (Freely available at &lt;a href=&quot;https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf&quot;&gt;https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;hr /&gt;
+&lt;h3 id=&quot;additional-resources&quot;&gt;Additional Resources:&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;If you feel like you would like to have a more basic review of these concepts, take a look at the lesson in &lt;a href=&quot;https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/random-variables-discrete/v/random-variables&quot;&gt;Khan academy here&lt;/a&gt;. You might also find the &lt;strong&gt;exercises&lt;/strong&gt; there helpful.&lt;/li&gt;
+  &lt;li&gt;The &lt;a href=&quot;https://en.wikipedia.org/wiki/Probability_theory&quot;&gt;wikipedia article on probability distributions&lt;/a&gt; might also be helpful.&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><summary type="html">Lecture Videos This week, we will be focusing our attention on a review of some basic concepts from probability theory and statistics. To view the videos in full screen, open them in a new tab.</summary></entry><entry><title type="html">Autumn Term, Week 9: Contracts, Mediation and Correlated Equilibrium</title><link href="http://localhost:4000/2021/11/22/week9.html" rel="alternate" type="text/html" title="Autumn Term, Week 9: Contracts, Mediation and Correlated Equilibrium" /><published>2021-11-22T00:00:00+00:00</published><updated>2021-11-22T00:00:00+00:00</updated><id>http://localhost:4000/2021/11/22/week9</id><content type="html" xml:base="http://localhost:4000/2021/11/22/week9.html">&lt;p&gt;&lt;strong&gt;Introduction: Achieving better outcomes through contracts and communication&lt;/strong&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;lt;iframe src=&quot;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=a59571ed-2919-4358-acbb-ade301262d56&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;lecture-videos&quot;&gt;Lecture Videos&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Random contracts&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;We are going to start off by looking at the basic notion of strategic games and Nash equilibrium. Despite the simplicity of the games we usually look at, the descriptions are rather general and allow for large, complex games. With such complicated games, it can be quite difficult to find Nash equilibria, specifically in cases in which we do not exactly “pin down” all parameters. For example, sometimes we might want to look at general classes of payoff functions, but even then, we can occasionally obtain quite general results.&lt;/p&gt;
-
-&lt;p&gt;There are going to be two videos this week, each around 20 minutes. The first video covers the definition and examples of strategic games. 
-&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=4e87ba13-ee55-482a-ac46-adb401469b31&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=true&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; align=&quot;center&quot; height=&quot;500&quot; width=&quot;900&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;
-&lt;/iframe&gt;
+&lt;p&gt;&amp;lt;iframe src=&quot;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=72479b63-2a06-4378-926d-ade400d53148&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;The second video looks at Nash equilibria and shows how to find them in a few different examples. 
-&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=e1ee0f19-226d-46c8-bd28-adb401543c82&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=true&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;500&quot; width=&quot;900&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;
-&lt;/iframe&gt;
+&lt;p&gt;&lt;strong&gt;Communication &amp;amp; Mediation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;iframe src=&quot;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=f9016302-e408-42e0-8269-ade60108bf86&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Correlated Equilibrium&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;iframe src=&quot;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=5aba3a0a-e973-430e-b7e5-ade6010ccd4d&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</content><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><summary type="html">Introduction: Achieving better outcomes through contracts and communication &amp;lt;iframe src=&quot;</summary></entry><entry><title type="html">Autumn Term, Week 8: Bargaining</title><link href="http://localhost:4000/2021/11/15/week8.html" rel="alternate" type="text/html" title="Autumn Term, Week 8: Bargaining" /><published>2021-11-15T00:00:00+00:00</published><updated>2021-11-15T00:00:00+00:00</updated><id>http://localhost:4000/2021/11/15/week8</id><content type="html" xml:base="http://localhost:4000/2021/11/15/week8.html">&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A model of bargaining two periods of alternating offers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=be8fabf7-3e1a-4176-a85e-addf00da8a3e&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A model of bargaining with infinite rounds of alternating offers&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=b620d0b0-95a3-4160-b01d-addf010e57e0&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Verifying the SPE using the “One-Deviation-Property”&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=89124e97-2213-4694-a69b-addf011663d2&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;/p&amp;gt;
+&lt;/p&gt;</content><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><summary type="html"></summary></entry><entry><title type="html">Autumn Term, Week 7: SEMINAR II</title><link href="http://localhost:4000/2021/11/08/week7.html" rel="alternate" type="text/html" title="Autumn Term, Week 7: SEMINAR II" /><published>2021-11-08T00:00:00+00:00</published><updated>2021-11-08T00:00:00+00:00</updated><id>http://localhost:4000/2021/11/08/week7</id><content type="html" xml:base="http://localhost:4000/2021/11/08/week7.html">&lt;p&gt;&lt;strong&gt;Solution to Problem 1&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=35c2605c-32dd-4f29-ac66-add8016c0d94&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Solution to Problem 2&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=652df68e-f201-4056-bc85-add80171b945&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Solution to Problem 3&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=252088cb-0d65-4849-aee4-add801749b93&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Solution to Problem 4&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=94775783-12e3-43bf-98a4-add8017a4588&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</content><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><summary type="html">Solution to Problem 1</summary></entry><entry><title type="html">Autumn Term, Week 6: Extensive Games</title><link href="http://localhost:4000/2021/11/01/week6.html" rel="alternate" type="text/html" title="Autumn Term, Week 6: Extensive Games" /><published>2021-11-01T00:00:00+00:00</published><updated>2021-11-01T00:00:00+00:00</updated><id>http://localhost:4000/2021/11/01/week6</id><content type="html" xml:base="http://localhost:4000/2021/11/01/week6.html">&lt;h3 id=&quot;extensive-games-motivation&quot;&gt;Extensive games: Motivation&lt;/h3&gt;
+
+&lt;p&gt;We start with some motivating examples of games with sequential moves; the familiar game tick-tack-toe and a second game, removing coins. The goal is to get a sense for the types of strategic interactions we are interested in and to motivate the definition of extensive games in the next video.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=4f6da8d8-8f8d-40ca-b308-add200dcaa99&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;extensive-games-definition&quot;&gt;Extensive games: Definition&lt;/h3&gt;
+
+&lt;p&gt;The next videos provides a (relatively) formal definition of extensive games, and it discusses the notion of strategies and outcomes in extensive games, which are more complicated objects than in simple strategic games.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=ce8d703e-9bc3-4882-9049-add200e58154&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;nash-equilibria-of-extensive-games&quot;&gt;Nash equilibria of Extensive Games&lt;/h3&gt;
+
+&lt;p&gt;The next video discusses Nash equilibria of extensive games. The basic notion of Nash equilibrium is the same as before: no player has a profitable deviation! But since strategies are a bit more complicated, it takes a little bit more effort to understand what Nash equilibria in extensive games are, and how to find them.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=1624b602-a4d0-426c-abc9-add200f72031&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;subgame-perfect-equilibrium&quot;&gt;Subgame Perfect Equilibrium&lt;/h3&gt;
+
+&lt;p&gt;The Nash equilibrium has the problem that it allows outcomes that are sustained by “empty threats”. This video explains what this means, and discusses an equilibrium refinement called the subgame perfect equilibrium that removes equilibria that entail such empty threats. The video also describes how to find subgame perfect equilibria in finite game through the process of backwards induction.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=4a5b7962-ff44-4fea-abd0-add2010475a7&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;examples&quot;&gt;Examples&lt;/h3&gt;
+
+&lt;p&gt;The next three videos provide examples to illustrate the previous points in slightly more involved settings.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Ultimatum game &amp;amp; Holdup game:&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=7f3a00c7-f989-4461-a4ac-add400a8d98d&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Centipede Game&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=7b68af49-daa1-4108-8a43-add400af8183&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Stackelberg duopoly&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=5005ce25-7b8f-4300-85f4-add400edb61c&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><summary type="html">Extensive games: Motivation</summary></entry><entry><title type="html">Autumn Term, Week 5: Mixed Strategies</title><link href="http://localhost:4000/2021/10/23/week5.html" rel="alternate" type="text/html" title="Autumn Term, Week 5: Mixed Strategies" /><published>2021-10-23T00:00:00+01:00</published><updated>2021-10-23T00:00:00+01:00</updated><id>http://localhost:4000/2021/10/23/week5</id><content type="html" xml:base="http://localhost:4000/2021/10/23/week5.html">&lt;p&gt;&lt;strong&gt;What are Mixed Strategies?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We start with a simple introduction to mixed strategies, what they are and how we use them in simple 2x2 games. For many this will be  revision, and you may skip this video if you’re sufficiently familiar with these ideas.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=03db8a05-d7ce-491d-bb6d-adca00ea8159&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;The next videos goes a bit more into detail, and discusses the essential differences between pure strategy and mixed strategy equilbria.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mixed Strategy Nash equilibrium&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=21dedfc9-e661-4408-b450-adca00fc7c2c&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;The next two video illustrate the notion of mixed strategies using two slightly more involved examples. The first is a game between two players, a consumer who relies on the advice of an expert who can benefit from lying.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Example: Expert Diagnosis&lt;/strong&gt;&lt;/p&gt;
+&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=66ea15fe-33a2-40d9-9c2a-adca01031842&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;The second game is game about the bystander effect, and provides an interesting example of how game theory can help explain seemingly surprising behaviours.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Example: Volunteer’s Dilemma&lt;/strong&gt;&lt;/p&gt;
+&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=8a55bf41-ef28-4607-a910-adca0108f1e2&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;
 
 &lt;hr /&gt;
 
 &lt;p&gt;&lt;strong&gt;Exercises&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Here is a list of exercises that you can use to practice your understanding of games and Nash equilibrium:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Find the mixed-strategy Nash equilibrium of the following normal-form game.&lt;/li&gt;
+&lt;/ol&gt;
 
-\[14.1, 18.1, 25.2^*, 29.2^{*}, 31.1^{*}, 32.2^{*}, 33.1,36.1\]
+\[\begin{array}{c|c|c|} 
+&amp;amp; L&amp;amp; R \\
+\hline T &amp;amp; 2,1 &amp;amp; 0,2 \\
+\hline B &amp;amp; 1,2 &amp;amp; 3,0 \\
+\hline \end{array}\]
 
-&lt;p&gt;These problems are taken  from publicly-available chapters of the book “Introduction to Game Theory” by Martin Osborne. &lt;a href=&quot;https://www.economics.utoronto.ca/osborne/igt/nash.pdf&quot;&gt;(Download)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;You can find the solutions to all unstarred problems in the accompanying solution manual. &lt;a href=&quot;https://www.economics.utoronto.ca/osborne/igt/solsp5.pdf&quot;&gt;(Download)&lt;/a&gt;.&lt;/p&gt;</content><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><summary type="html">Downloads:</summary></entry></feed>
+&lt;ol&gt;
+  &lt;li&gt;Find the mixed strategy Nash equilibrium of the game “Rock-Paper-Scissors”&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><summary type="html">What are Mixed Strategies?</summary></entry></feed>
