@@ -1,19 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-15T12:34:27+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mathematical Economics, 2021/2022</title><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><entry><title type="html">Spring Term, Week 6: Social Choice</title><link href="http://localhost:4000/2022/02/14/week6.html" rel="alternate" type="text/html" title="Spring Term, Week 6: Social Choice" /><published>2022-02-14T00:00:00+00:00</published><updated>2022-02-14T00:00:00+00:00</updated><id>http://localhost:4000/2022/02/14/week6</id><content type="html" xml:base="http://localhost:4000/2022/02/14/week6.html">&lt;h3 id=&quot;lecture-videos&quot;&gt;Lecture Videos&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-15T13:01:53+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mathematical Economics, 2021/2022</title><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><entry><title type="html">Spring Term, Week 6: Social Choice</title><link href="http://localhost:4000/2022/02/14/week6.html" rel="alternate" type="text/html" title="Spring Term, Week 6: Social Choice" /><published>2022-02-14T00:00:00+00:00</published><updated>2022-02-14T00:00:00+00:00</updated><id>http://localhost:4000/2022/02/14/week6</id><content type="html" xml:base="http://localhost:4000/2022/02/14/week6.html">&lt;h3 id=&quot;lecture-videos&quot;&gt;Lecture Videos&lt;/h3&gt;
 
 &lt;p&gt;This week we’re going to look at the theory of social choice. The premise is simple: starting from a group of individuals, and their individual preferences, what can we say about the preferences of the group as a whole? This is for example what elections are supposed to do. We’ll see that aggregating preferences is generally impossible, unless one imposes relatively strong restrictions or accepts that the social ranking has some undesirable properties.&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;The first video, offers an overview, defines the notion of a social choice problem and provides some notation, definitions and assumptions.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The first video, offers an overview, defines the notion of a social choice problem and provides some notation, definitions and assumptions.&lt;/p&gt;
+
+    &lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=109261a1-3908-45da-b975-acd00106c02c&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;In the second video, we consider Social Welfare Functions (Social Rankings) and their properties, and we learn about Arrow’s Impossibility Theorem.&lt;/p&gt;
+
+    &lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=0533d610-a5ec-4226-b75c-acd000f281dc&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;In the third video, we consider Social Choice Functions* and their properties, and we learn about the Gibbard Satthethwaite Theorem.&lt;/p&gt;
+
+    &lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=c9e91d84-f0cb-4976-94bf-acd000fedf8a&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=109261a1-3908-45da-b975-acd00106c02c&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;In the second video, we consider Social Welfare Functions (Social Rankings) and their properties, and we learn about Arrow’s Impossibility Theorem.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=0533d610-a5ec-4226-b75c-acd000f281dc&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;In the third video, we consider Social Choice Functions* and their properties, and we learn about the Gibbard Satthethwaite Theorem.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=c9e91d84-f0cb-4976-94bf-acd000fedf8a&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;readings&quot;&gt;Readings:&lt;/h3&gt;
 &lt;ul&gt;
