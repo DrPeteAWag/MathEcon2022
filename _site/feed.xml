@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-15T13:01:53+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mathematical Economics, 2021/2022</title><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><entry><title type="html">Spring Term, Week 6: Social Choice</title><link href="http://localhost:4000/2022/02/14/week6.html" rel="alternate" type="text/html" title="Spring Term, Week 6: Social Choice" /><published>2022-02-14T00:00:00+00:00</published><updated>2022-02-14T00:00:00+00:00</updated><id>http://localhost:4000/2022/02/14/week6</id><content type="html" xml:base="http://localhost:4000/2022/02/14/week6.html">&lt;h3 id=&quot;lecture-videos&quot;&gt;Lecture Videos&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-23T10:17:07+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mathematical Economics, 2021/2022</title><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><entry><title type="html">Spring Term, Week 7: Seminars II</title><link href="http://localhost:4000/2022/02/21/week7.html" rel="alternate" type="text/html" title="Spring Term, Week 7: Seminars II" /><published>2022-02-21T00:00:00+00:00</published><updated>2022-02-21T00:00:00+00:00</updated><id>http://localhost:4000/2022/02/21/week7</id><content type="html" xml:base="http://localhost:4000/2022/02/21/week7.html"></content><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><summary type="html"></summary></entry><entry><title type="html">Spring Term, Week 6: Social Choice</title><link href="http://localhost:4000/2022/02/14/week6.html" rel="alternate" type="text/html" title="Spring Term, Week 6: Social Choice" /><published>2022-02-14T00:00:00+00:00</published><updated>2022-02-14T00:00:00+00:00</updated><id>http://localhost:4000/2022/02/14/week6</id><content type="html" xml:base="http://localhost:4000/2022/02/14/week6.html">&lt;h3 id=&quot;lecture-videos&quot;&gt;Lecture Videos&lt;/h3&gt;
 
 &lt;p&gt;This week we’re going to look at the theory of social choice. The premise is simple: starting from a group of individuals, and their individual preferences, what can we say about the preferences of the group as a whole? This is for example what elections are supposed to do. We’ll see that aggregating preferences is generally impossible, unless one imposes relatively strong restrictions or accepts that the social ranking has some undesirable properties.&lt;/p&gt;
 
@@ -273,42 +273,4 @@
 
     &lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=5005ce25-7b8f-4300-85f4-add400edb61c&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;
   &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><summary type="html">Extensive games: Motivation</summary></entry><entry><title type="html">Autumn Term, Week 5: Mixed Strategies</title><link href="http://localhost:4000/2021/10/23/week5.html" rel="alternate" type="text/html" title="Autumn Term, Week 5: Mixed Strategies" /><published>2021-10-23T00:00:00+01:00</published><updated>2021-10-23T00:00:00+01:00</updated><id>http://localhost:4000/2021/10/23/week5</id><content type="html" xml:base="http://localhost:4000/2021/10/23/week5.html">&lt;p&gt;&lt;strong&gt;What are Mixed Strategies?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;We start with a simple introduction to mixed strategies, what they are and how we use them in simple 2x2 games. For many this will be  revision, and you may skip this video if you’re sufficiently familiar with these ideas.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=03db8a05-d7ce-491d-bb6d-adca00ea8159&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;The next videos goes a bit more into detail, and discusses the essential differences between pure strategy and mixed strategy equilbria.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Mixed Strategy Nash equilibrium&lt;/strong&gt;&lt;/p&gt;
-
-&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=21dedfc9-e661-4408-b450-adca00fc7c2c&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;The next two video illustrate the notion of mixed strategies using two slightly more involved examples. The first is a game between two players, a consumer who relies on the advice of an expert who can benefit from lying.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Example: Expert Diagnosis&lt;/strong&gt;&lt;/p&gt;
-&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=66ea15fe-33a2-40d9-9c2a-adca01031842&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;The second game is game about the bystander effect, and provides an interesting example of how game theory can help explain seemingly surprising behaviours.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Example: Volunteer’s Dilemma&lt;/strong&gt;&lt;/p&gt;
-&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=8a55bf41-ef28-4607-a910-adca0108f1e2&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Exercises&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Find the mixed-strategy Nash equilibrium of the following normal-form game.&lt;/li&gt;
-&lt;/ol&gt;
-
-\[\begin{array}{c|c|c|} 
-&amp;amp; L&amp;amp; R \\
-\hline T &amp;amp; 2,1 &amp;amp; 0,2 \\
-\hline B &amp;amp; 1,2 &amp;amp; 3,0 \\
-\hline \end{array}\]
-
-&lt;ol&gt;
-  &lt;li&gt;Find the mixed strategy Nash equilibrium of the game “Rock-Paper-Scissors”&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><summary type="html">What are Mixed Strategies?</summary></entry></feed>
+&lt;/ol&gt;</content><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><summary type="html">Extensive games: Motivation</summary></entry></feed>
