@@ -1,4 +1,51 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-23T10:29:30+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mathematical Economics, 2021/2022</title><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><entry><title type="html">Spring Term, Week 7: Seminars II</title><link href="http://localhost:4000/2022/02/21/week7.html" rel="alternate" type="text/html" title="Spring Term, Week 7: Seminars II" /><published>2022-02-21T00:00:00+00:00</published><updated>2022-02-21T00:00:00+00:00</updated><id>http://localhost:4000/2022/02/21/week7</id><content type="html" xml:base="http://localhost:4000/2022/02/21/week7.html">&lt;ul&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-28T09:39:19+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mathematical Economics, 2021/2022</title><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><entry><title type="html">Spring Term, Week 8: Mechanism Design</title><link href="http://localhost:4000/2022/02/28/week8.html" rel="alternate" type="text/html" title="Spring Term, Week 8: Mechanism Design" /><published>2022-02-28T00:00:00+00:00</published><updated>2022-02-28T00:00:00+00:00</updated><id>http://localhost:4000/2022/02/28/week8</id><content type="html" xml:base="http://localhost:4000/2022/02/28/week8.html">&lt;h3 id=&quot;lecture-videos&quot;&gt;Lecture Videos&lt;/h3&gt;
+
+&lt;p&gt;This week we will study Mechanism Design Theory. The goal of mechanism design is the reverse of standard game theory: we take as given that there are players who have private information (such as information about their own tastes) and we consider the problem of designing a game that achieves some objective, such as maximising revenue in an auction, or minimising waiting time in a hospital. There are a number of general classes of mechanism that can be used, depending on the nature of the information.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Introduction
+    &lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=969db52b-f40a-49a6-a006-acdf000a6bb9&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Mechanisms and implementation
+    &lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=504404d7-3ede-4de8-8c1e-acde0188d686&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Direct mechanisms and the revelation principle
+    &lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=76bb8ffd-25fe-4f6e-9c7e-acde0188d712&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Quasi-linear Utility, Groves Mechanism &amp;amp; VCG Mechanism
+    &lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=023cccae-af50-4b43-863c-acde0188d6d1&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Expected externality mechanism
+    &lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=3ba2a7ef-6496-4761-beab-acde0188d6b1&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Applications of Mechanism Design&lt;/p&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;Building a pool with dominant strategy implementation: VCG mechanism&amp;lt;p&amp;gt;&amp;lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=d77ffe1f-10f3-47e0-8b36-acde018a9025&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen allow=&quot;autoplay&quot;&amp;gt;&amp;lt;/iframe&amp;gt;&amp;lt;/p&amp;gt;&lt;/li&gt;
+      &lt;li&gt;Building a pool with budget balance: Expected externality mechanism&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=35cb540e-e17d-4e00-95fd-acde018b6db2&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Allocation of an indivisible good&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=3ddcf623-ae09-4db4-bdd2-acdf00027bb0&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;###&lt;br /&gt;
+Readings:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Chapter 22 in Mas-Colell, et al. (1995). Microeconomic Theory. Oxford University Press&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Chapter 2 in Diamantaras, D., et al. (2009). A Toolbox for Economic Design. Macmillan.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;additional-resources&quot;&gt;Additional Resources:&lt;/h3&gt;</content><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><summary type="html">Lecture Videos</summary></entry><entry><title type="html">Spring Term, Week 7: Seminars II</title><link href="http://localhost:4000/2022/02/21/week7.html" rel="alternate" type="text/html" title="Spring Term, Week 7: Seminars II" /><published>2022-02-21T00:00:00+00:00</published><updated>2022-02-21T00:00:00+00:00</updated><id>http://localhost:4000/2022/02/21/week7</id><content type="html" xml:base="http://localhost:4000/2022/02/21/week7.html">&lt;ul&gt;
   &lt;li&gt;
     &lt;p&gt;Solution to Problem 1:&lt;/p&gt;
 
@@ -234,56 +281,4 @@
 
 &lt;p&gt;&lt;strong&gt;Solution to Problem 4&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=94775783-12e3-43bf-98a4-add8017a4588&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</content><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><summary type="html">Solution to Problem 1</summary></entry><entry><title type="html">Autumn Term, Week 6: Extensive Games</title><link href="http://localhost:4000/2021/11/01/week6.html" rel="alternate" type="text/html" title="Autumn Term, Week 6: Extensive Games" /><published>2021-11-01T00:00:00+00:00</published><updated>2021-11-01T00:00:00+00:00</updated><id>http://localhost:4000/2021/11/01/week6</id><content type="html" xml:base="http://localhost:4000/2021/11/01/week6.html">&lt;h3 id=&quot;extensive-games-motivation&quot;&gt;Extensive games: Motivation&lt;/h3&gt;
-
-&lt;p&gt;We start with some motivating examples of games with sequential moves; the familiar game tick-tack-toe and a second game, removing coins. The goal is to get a sense for the types of strategic interactions we are interested in and to motivate the definition of extensive games in the next video.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=4f6da8d8-8f8d-40ca-b308-add200dcaa99&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;extensive-games-definition&quot;&gt;Extensive games: Definition&lt;/h3&gt;
-
-&lt;p&gt;The next videos provides a (relatively) formal definition of extensive games, and it discusses the notion of strategies and outcomes in extensive games, which are more complicated objects than in simple strategic games.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=ce8d703e-9bc3-4882-9049-add200e58154&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;nash-equilibria-of-extensive-games&quot;&gt;Nash equilibria of Extensive Games&lt;/h3&gt;
-
-&lt;p&gt;The next video discusses Nash equilibria of extensive games. The basic notion of Nash equilibrium is the same as before: no player has a profitable deviation! But since strategies are a bit more complicated, it takes a little bit more effort to understand what Nash equilibria in extensive games are, and how to find them.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=1624b602-a4d0-426c-abc9-add200f72031&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;subgame-perfect-equilibrium&quot;&gt;Subgame Perfect Equilibrium&lt;/h3&gt;
-
-&lt;p&gt;The Nash equilibrium has the problem that it allows outcomes that are sustained by “empty threats”. This video explains what this means, and discusses an equilibrium refinement called the subgame perfect equilibrium that removes equilibria that entail such empty threats. The video also describes how to find subgame perfect equilibria in finite game through the process of backwards induction.&lt;/p&gt;
-
-&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=4a5b7962-ff44-4fea-abd0-add2010475a7&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;examples&quot;&gt;Examples&lt;/h3&gt;
-
-&lt;p&gt;The next three videos provide examples to illustrate the previous points in slightly more involved settings.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Ultimatum game &amp;amp; Holdup game:&lt;/strong&gt;&lt;/p&gt;
-
-    &lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=7f3a00c7-f989-4461-a4ac-add400a8d98d&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Centipede Game&lt;/strong&gt;&lt;/p&gt;
-
-    &lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=7b68af49-daa1-4108-8a43-add400af8183&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Stackelberg duopoly&lt;/strong&gt;&lt;/p&gt;
-
-    &lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=5005ce25-7b8f-4300-85f4-add400edb61c&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><summary type="html">Extensive games: Motivation</summary></entry></feed>
+&lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=94775783-12e3-43bf-98a4-add8017a4588&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</content><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><summary type="html">Solution to Problem 1</summary></entry></feed>
