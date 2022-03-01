@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-03-01T15:11:35+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mathematical Economics, 2021/2022</title><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><entry><title type="html">Spring Term, Week 8: Mechanism Design</title><link href="http://localhost:4000/2022/02/28/week8.html" rel="alternate" type="text/html" title="Spring Term, Week 8: Mechanism Design" /><published>2022-02-28T00:00:00+00:00</published><updated>2022-02-28T00:00:00+00:00</updated><id>http://localhost:4000/2022/02/28/week8</id><content type="html" xml:base="http://localhost:4000/2022/02/28/week8.html">&lt;h3 id=&quot;lecture-videos&quot;&gt;Lecture Videos&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-03-01T15:13:13+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mathematical Economics, 2021/2022</title><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><entry><title type="html">Spring Term, Week 8: Mechanism Design</title><link href="http://localhost:4000/2022/02/28/week8.html" rel="alternate" type="text/html" title="Spring Term, Week 8: Mechanism Design" /><published>2022-02-28T00:00:00+00:00</published><updated>2022-02-28T00:00:00+00:00</updated><id>http://localhost:4000/2022/02/28/week8</id><content type="html" xml:base="http://localhost:4000/2022/02/28/week8.html">&lt;h3 id=&quot;lecture-videos&quot;&gt;Lecture Videos&lt;/h3&gt;
 
 &lt;p&gt;This week we will study Mechanism Design Theory. The goal of mechanism design is the reverse of standard game theory: we take as given that there are players who have private information (such as information about their own tastes) and we consider the problem of designing a game that achieves some objective, such as maximising revenue in an auction, or minimising waiting time in a hospital. There are a number of general classes of mechanism that can be used, depending on the nature of the information.&lt;/p&gt;
 
@@ -22,17 +22,22 @@
     &lt;p&gt;Applications of Mechanism Design&lt;/p&gt;
 
     &lt;ol&gt;
-      &lt;li&gt;Building a pool with dominant strategy implementation: VCG mechanism&lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Building a pool with dominant strategy implementation: VCG mechanism&lt;/p&gt;
+
+        &lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=d77ffe1f-10f3-47e0-8b36-acde018a9025&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Building a pool with budget balance: Expected externality mechanism&lt;/p&gt;
+
+        &lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=35cb540e-e17d-4e00-95fd-acde018b6db2&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Allocation of an indivisible good&lt;/p&gt;
+
+        &lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=3ddcf623-ae09-4db4-bdd2-acdf00027bb0&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+      &lt;/li&gt;
     &lt;/ol&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=d77ffe1f-10f3-47e0-8b36-acde018a9025&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
-    &lt;ol&gt;
-      &lt;li&gt;Building a pool with budget balance: Expected externality mechanism&lt;/li&gt;
-    &lt;/ol&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=35cb540e-e17d-4e00-95fd-acde018b6db2&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
-    &lt;ol&gt;
-      &lt;li&gt;Allocation of an indivisible good&lt;/li&gt;
-    &lt;/ol&gt;
-    &lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=3ddcf623-ae09-4db4-bdd2-acdf00027bb0&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
