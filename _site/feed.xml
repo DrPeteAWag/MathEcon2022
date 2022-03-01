@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-03-01T15:16:24+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mathematical Economics, 2021/2022</title><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><entry><title type="html">Spring Term, Week 8: Mechanism Design</title><link href="http://localhost:4000/2022/02/28/week8.html" rel="alternate" type="text/html" title="Spring Term, Week 8: Mechanism Design" /><published>2022-02-28T00:00:00+00:00</published><updated>2022-02-28T00:00:00+00:00</updated><id>http://localhost:4000/2022/02/28/week8</id><content type="html" xml:base="http://localhost:4000/2022/02/28/week8.html">&lt;h3 id=&quot;lecture-videos&quot;&gt;Lecture Videos&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-03-01T15:16:28+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mathematical Economics, 2021/2022</title><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><entry><title type="html">Spring Term, Week 8: Mechanism Design</title><link href="http://localhost:4000/2022/02/28/week8.html" rel="alternate" type="text/html" title="Spring Term, Week 8: Mechanism Design" /><published>2022-02-28T00:00:00+00:00</published><updated>2022-02-28T00:00:00+00:00</updated><id>http://localhost:4000/2022/02/28/week8</id><content type="html" xml:base="http://localhost:4000/2022/02/28/week8.html">&lt;h3 id=&quot;lecture-videos&quot;&gt;Lecture Videos&lt;/h3&gt;
 
 &lt;p&gt;This week we will study Mechanism Design Theory. The goal of mechanism design is the reverse of standard game theory: we take as given that there are players who have private information (such as information about their own tastes) and we consider the problem of designing a game that achieves some objective, such as maximising revenue in an auction, or minimising waiting time in a hospital. There are a number of general classes of mechanism that can be used, depending on the nature of the information.&lt;/p&gt;
 
@@ -40,8 +40,6 @@
     &lt;/ol&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
-
-&lt;p&gt;.&lt;/p&gt;
 
 &lt;h3 id=&quot;readings&quot;&gt;Readings:&lt;/h3&gt;
 
