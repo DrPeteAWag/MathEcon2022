@@ -1,11 +1,11 @@
-title: Mathematical Economics, 2021/2022
+title: Mathematical Economics
 author:
   name:  Dr. Peter A Wagner
   email: peter.wagner@york.ac.uk
 
 
 header_pages:
-  - Downloads.md
+  # - Downloads.md
 
 future: true
 
