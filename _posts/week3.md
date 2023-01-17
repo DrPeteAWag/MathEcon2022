@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Spring Term, Week 3: Bayesian games"
+---
+
+
+### Lecture Videos
+This week, we will be looking at “Bayesian games” which are strategic games in which players have private information. After a quick detour into some modelling aspects, we look at general definitions and how to solve for equilibria. To view the videos in full screen, open them in a new tab.  
+
+1. In the *first video*, I talk about the notion of “types” which we use to represent the players’ different states of knowledge in strategic games. 
+    
+    <p><iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=0c94f52e-d0bf-4e86-9616-acba012115a8&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe></p>
+
+2. In the *second video*, I walk you through a first example of a strategic game I call the “meeting game” (which may or may not be inspired by my wife’s weekly meetings with her highly motivated running buddy). The first step is to observe that strategic games with incomplete information are indeed equivalent to extensive games with unobservable actions and moves by Nature. In this sense, the notion of Nash equilibrium that you have seen before can be readily applied. I show you how to find the (pure strategy Nash equilibrium) for this game. 
+
+    <p><iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=4fafd131-31a3-4fa7-a2e4-acba01450f85&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe></p>
+
+3. The *third video* provides a general definition of Bayesian games and Bayes-Nash equilibrium. 
+    
+    <p><iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=9318fcd3-02c5-4832-8c0d-acbb00e4bce4&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe></p>
+4. The *last two videos* provide further examples of games with incomplete information
+
+   1. **Example 1**:  “More information can be bad”
+    
+        <p><iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=14f193e2-fc0f-4340-8efe-acbb00e9ef2c&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe></p>
+
+   2. **Example 2**: “Cournot competition with private cost”
+   
+        <p><iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=f78caa58-ebb9-4c5e-9089-acbb00f8eb71&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe></p>
+
+### Readings:
+- Chapter 9 in Osborne, M. J. (2009). An Introduction to Game Theory. Oxford University Press
+- Chapter 3 in Gibbons, R. (1992). Game Theory for Applied Economists. Princeton University Press.
+
+
+### Additional Resources: 
+Wikipedia article on Bayesian Games: [https://en.wikipedia.org/wiki/Bayesian_game](https://en.wikipedia.org/wiki/Bayesian_game)
+

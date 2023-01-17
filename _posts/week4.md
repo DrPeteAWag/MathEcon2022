@@ -1,0 +1,45 @@
+---
+layout: post
+title: "Spring Term, Week 4: Extensive games with incomplete information"
+---
+
+
+### Lecture Videos
+We now move on to extensive games with incomplete information. These games are equivalent to extensive games with imperfect information (unobserved *actions*, rather than unobserved *types*) and “chance” moves by nature, and we will talk about such games only in these terms. The main difference to Bayesian games is that players move sequentially and learn during the game, and the challenge is then to model how players learn and what beliefs they hold at each stage of the game. 
+
+1. In the first video, I provide a motivating example that illustrates the kind of challenges that we encounter when dealing with extensive games with incomplete information.  In particular, I point to two new requirements that will lie at the heart of the equilibrium notion that we will need for such games: sequential rationality and belief consistency. 
+
+   <p><iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=87d666ec-439d-45d6-8318-acc1015c310f&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe></p>
+2. In the second video, I define and discuss the notion of “sequential rationality”. 
+
+   <p><iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=4fdf9e2c-0daf-4261-b3ff-acc1015c3b0c&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe></p>
+3. In the third video, I define and discuss the notion of “belief consistency”. 
+
+   <p><iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=1cd283ed-af17-467b-b77d-acc1015c431b&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe></p>
+4. The fourth video provides a general definition of weak perfect Bayesian equilibrium, and I provide some context and illustrate one of its weaknesses with an example. 
+
+   <p><iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=bbfea946-4c8c-4d7c-8a3f-acc5009efe9c&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe></p>
+5. The last two videos provide examples of extensive games with incomplete information
+
+   1. Example  1: “Card Game”
+      <p><iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=eb65d576-fd18-409c-9863-acc10164e492&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe></p>
+   1. Example  2:“Spence’s Signalling game”
+   
+      <p><iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=0b5094f9-8d45-4f5e-b49f-acc10169f242&autoplay=false&offerviewer=true&showtitle=false&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe></p>
+1. There are more nice examples one Wikipedia that you can use to practice your understanding:
+   1. [Gift game 1](https://en.wikipedia.org/wiki/Perfect_Bayesian_equilibrium#Gift_game_1)[ ](https://en.wikipedia.org/wiki/Perfect_Bayesian_equilibrium#Gift_game_1)
+   1. [Gift game  2](https://en.wikipedia.org/wiki/Perfect_Bayesian_equilibrium#Gift_game_2)
+   1. [Repeated public good game](https://en.wikipedia.org/wiki/Perfect_Bayesian_equilibrium#Repeated_public-good_game)
+   1. [Reputation game](https://en.wikipedia.org/wiki/Signaling_game#Reputation_game)
+   1. [Education  game](https://en.wikipedia.org/wiki/Signaling_game#Education_game) (a variation of the game in Example 2)
+   1. [Beer Quiche game](https://en.wikipedia.org/wiki/Signaling_game#Beer-Quiche_game) .
+###
+### Readings:
+- Chapter 10 in Osborne, M. J. (2009). An Introduction to Game Theory. Oxford University Press
+- Chapter 4 in Gibbons, R. (1992). Game Theory for Applied Economists. Princeton University Press.
+### Additional Resources: 
+- Wikipedia: Signalling Games: [https://en.wikipedia.org/wiki/Signaling_game](https://en.wikipedia.org/wiki/Signaling_game)
+- Wikipedia: Perfect Bayesian Equilibrium [https://en.wikipedia.org/wiki/Perfect_Bayesian_equilibrium](https://en.wikipedia.org/wiki/Perfect_Bayesian_equilibrium)
+- Wikipedia: Extensive games [https://en.wikipedia.org/wiki/Extensive-form_game#Incomplete_information)](https://en.wikipedia.org/wiki/Extensive-form_game#Incomplete_information)
+
+
