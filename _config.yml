@@ -3,6 +3,7 @@ author:
   name:  Dr. Peter A Wagner
   email: peter.wagner@york.ac.uk
 
+permalink: /posts/:title
 
 header_pages:
   # - Downloads.md
