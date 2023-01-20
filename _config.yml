@@ -6,12 +6,8 @@ author:
 header_pages:
   # - Downloads.md
 
-future: true
-
-show_excerpts: false # set to true to show excerpts on the homepage
-
 # Build settings
-remote_theme: pmarsceill/just-the-docs
+remote_theme: just-the-docs
 
 plugins:
  - jekyll-feed
