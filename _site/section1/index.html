@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Section 1: Strategic Games | Mathematical Economics</title>
+<meta name="generator" content="Jekyll v4.2.1" />
+<meta property="og:title" content="Section 1: Strategic Games" />
+<meta name="author" content="Dr. Peter A Wagner" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="We are going to start off by looking at the basic notion of strategic games and Nash equilibrium. Despite the simplicity of the games we usually look at, the descriptions are rather general and allow for large, complex games. With such complicated games, it can be quite difficult to find Nash equilibria, specifically in cases in which we do not exactly “pin down” all parameters. For example, sometimes we might want to look at general classes of payoff functions, but even then, we can occasionally obtain quite general results." />
+<meta property="og:description" content="We are going to start off by looking at the basic notion of strategic games and Nash equilibrium. Despite the simplicity of the games we usually look at, the descriptions are rather general and allow for large, complex games. With such complicated games, it can be quite difficult to find Nash equilibria, specifically in cases in which we do not exactly “pin down” all parameters. For example, sometimes we might want to look at general classes of payoff functions, but even then, we can occasionally obtain quite general results." />
+<link rel="canonical" href="http://localhost:4000/section1/" />
+<meta property="og:url" content="http://localhost:4000/section1/" />
+<meta property="og:site_name" content="Mathematical Economics" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2022-10-27T00:00:00+01:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Section 1: Strategic Games" />
+<script type="application/ld+json">
+{"headline":"Section 1: Strategic Games","dateModified":"2022-10-27T00:00:00+01:00","datePublished":"2022-10-27T00:00:00+01:00","url":"http://localhost:4000/section1/","description":"We are going to start off by looking at the basic notion of strategic games and Nash equilibrium. Despite the simplicity of the games we usually look at, the descriptions are rather general and allow for large, complex games. With such complicated games, it can be quite difficult to find Nash equilibria, specifically in cases in which we do not exactly “pin down” all parameters. For example, sometimes we might want to look at general classes of payoff functions, but even then, we can occasionally obtain quite general results.","@type":"BlogPosting","author":{"@type":"Person","name":"Dr. Peter A Wagner"},"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/section1/"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Mathematical Economics" />
+</head>
+<body><header class="site-header">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">Mathematical Economics</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/zDownloads/">Downloads</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Section 1: Strategic Games</h1>
+    <p class="post-meta"><time class="dt-published" datetime="2022-10-27T00:00:00+01:00" itemprop="datePublished">
+        Oct 27, 2022
+      </time></p>
+       </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <p>We are going to start off by looking at the basic notion of strategic games and Nash equilibrium. Despite the simplicity of the games we usually look at, the descriptions are rather general and allow for large, complex games. With such complicated games, it can be quite difficult to find Nash equilibria, specifically in cases in which we do not exactly “pin down” all parameters. For example, sometimes we might want to look at general classes of payoff functions, but even then, we can occasionally obtain quite general results.</p>
+
+<p>We then continue to explore the concept of domination. A strategy is dominated if it is never a best response against any actions chosen by others. This concept is closely linked to rationality and common knowledge. Finally, we extend all of these ideas by introducing mixed strategies. At the surface, mixed strategies are simply random choices over actions (or “pure” strategies more generally.)  But there are some delicate points about the evaluation of payoffs and the meaning of mixed strategies.</p>
+
+<hr />
+
+<p><br /></p>
+
+<ul>
+  <li><strong>Lecture Slides:</strong>
+    <ul>
+      <li>Strategic Games, Nash equilibrium and Domination <a href="https://drive.google.com/uc?export=download&amp;id=1StvFev88Y4miOZidd7grptv1Cjnz2Njz">PDF</a></li>
+      <li>Nash equilibrium Illustration <a href="https://drive.google.com/uc?export=download&amp;id=13avLVjNr1FRPvA8bx9FStj6g0LKALTex">PDF</a></li>
+      <li>Mixed Strategies <a href="https://drive.google.com/uc?export=download&amp;id=13tCBifN6ji1ggmuMMD5AdUh-eXvYJHK5">PDF</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p><br /></p>
+
+<ul>
+  <li>
+    <p><strong>Readings:</strong> “Introduction to Game Theory”, by Martin Osborne</p>
+
+    <ol>
+      <li><a href="https://www.economics.utoronto.ca/osborne/igt/igtChapter1.pdf"> Introduction</a></li>
+      <li><a href="https://www.economics.utoronto.ca/osborne/igt/igtChapter2.pdf">Nash equilibrium: theory</a></li>
+      <li><a href="https://www.economics.utoronto.ca/osborne/igt/igtChapter3.pdf">Nash equilibrium: illustrations</a></li>
+      <li><a href="https://www.economics.utoronto.ca/osborne/igt/igtChapter4.pdf">Mixed strategy equilibrium</a></li>
+    </ol>
+  </li>
+</ul>
+
+<p><br /></p>
+
+<ul>
+  <li>
+    <p><strong>Learning Objectives:</strong></p>
+
+    <ul>
+      <li>Understand the concept of a strategic game</li>
+      <li>Be able to differentiate between different types of strategic interaction: conflict of interest, common-interest/coordination and collective action problems</li>
+      <li>Become familiar with the concepts of (pure and mixed) Strategies, Best responses and Nash equilibrium and learn how to identify them.</li>
+      <li>Understand the meaning of domination, its purpose and its relation to Nash equilibrium</li>
+    </ul>
+  </li>
+</ul>
+
+<p><br /></p>
+
+<hr />
+
+<h3 id="exercises">Exercises</h3>
+
+<p>Here is a list of exercises that you can use to practice your understanding of games and Nash equilibrium:</p>
+
+<ul>
+  <li>Exercise 14.1: Working on a project</li>
+  <li>Exercise 18.1: Games without conflict</li>
+  <li>Exercise 25.2*: Selfish and altruistic social behavior</li>
+  <li>Exercise 29.2*: Hawk-Dove</li>
+  <li>Exercise 35.1: Finding Nash equilibria using best response functions (Solution: 37.1)</li>
+  <li>Exercise 37.1: Dividing money (Solution: 38.2)</li>
+  <li>Exercise 39.1: Strict and nonstrict Nash equilibria (Solution: 41.1)</li>
+  <li>Exercise 46.1: Strict equilibria and dominated actions (Solution: 47.1)</li>
+  <li>Exercise 46.2: Nash equilibrium and weakly dominated actions (Solution: 47.1)</li>
+  <li>Exercise 49.1: Other Nash equilibria of the game modeling collective decision-making (Solution: 50.1)</li>
+  <li>Exercise 50.1: Symmetric strategic games (Solution: 47.1)</li>
+  <li>Exercise 51.1: Equilibrium for pairwise interactions in a single population (Solution: 47.1)</li>
+</ul>
+
+<p>These problems are taken  from publicly-available chapters of the book “Introduction to Game Theory” by Martin Osborne. <a href="https://www.economics.utoronto.ca/osborne/igt/nash.pdf">(Download)</a></p>
+
+<p>The numbers in parenthesis at the end are the numbers of the solutions in the <a href="https://www.economics.utoronto.ca/osborne/igt/solsp5.pdf">accompanying solution manual.</a></p>
+
+<hr />
+
+<p><br /></p>
+
+<h1 id="lecture-videos">Lecture videos:</h1>
+
+<p><br /></p>
+
+<p><strong>Disclaimer:</strong> <em>These are the lecture videos from last year. I include them for your convenience, but please note that they might slightly differ in structure and selection of content.</em></p>
+
+<p><br /></p>
+
+<p><strong>The notion of strategic games</strong></p>
+
+<p>In the first video, I give you a motivation for why we are interested in “Games” from an economics perspective and outline the basic concept.</p>
+
+<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=4e87ba13-ee55-482a-ac46-adb401469b31&amp;autoplay=false&amp;offerviewer=true&amp;showtitle=true&amp;showbrand=false&amp;captions=false&amp;interactivity=all" align="center" height="500" width="900" style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay">
+</iframe>
+
+<p><br /></p>
+
+<p><strong>Nash equilibria</strong></p>
+
+<p>The second video looks at Nash equilibria and shows how to find them in a few different examples. 
+<br /><br /></p>
+<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=e1ee0f19-226d-46c8-bd28-adb401543c82&amp;autoplay=false&amp;offerviewer=true&amp;showtitle=true&amp;showbrand=false&amp;captions=false&amp;interactivity=all" height="500" width="900" style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay">
+</iframe>
+
+<p><br /></p>
+
+<p><strong>Best responses</strong>
+In the next video, I consider the concept of best responses, provide the formal definition and then offer some illustrations. 
+<br /><br /></p>
+
+<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=71e90f4b-7dda-4f63-9ced-adbc010affe7&amp;autoplay=false&amp;offerviewer=true&amp;showtitle=false&amp;showbrand=false&amp;captions=false&amp;interactivity=all" align="center" height="500" width="900" allowfullscreen="">
+</iframe>
+
+<p><br /></p>
+
+<p>The next video expands on this a little, and gives two further examples, each with a continuum of actions:
+<br /><br /></p>
+<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=82c09985-f629-47b2-840d-adbc01137bb8&amp;autoplay=false&amp;offerviewer=true&amp;showtitle=false&amp;showbrand=false&amp;captions=false&amp;interactivity=all" align="center" height="500" width="900" allowfullscreen="">
+</iframe>
+
+<p><br /></p>
+
+<p>In this video, I talk about the notion of (strict and weak) domination, and give an example of an equilibrium in weakly dominated strategies in a voting game. 
+<br /><br /></p>
+<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=ca32290d-64ec-4bd5-b4d0-adbc011b368e&amp;autoplay=false&amp;offerviewer=true&amp;showtitle=false&amp;showbrand=false&amp;captions=false&amp;interactivity=all" align="center" height="500" width="900" allowfullscreen="">
+</iframe>
+
+<p><br /></p>
+
+<p><strong>Mixed Strategies</strong></p>
+
+<p>We now consider the notion of mixed strategies. We start with a simple introduction to mixed strategies, what they are and how we use them in simple 2x2 games. For many this will be  revision, and you may skip this video if you’re sufficiently familiar with these ideas.</p>
+
+<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=03db8a05-d7ce-491d-bb6d-adca00ea8159&amp;autoplay=false&amp;offerviewer=true&amp;showtitle=false&amp;showbrand=false&amp;captions=false&amp;interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay"></iframe>
+
+<p>The next videos goes a bit more into detail, and discusses the essential differences between pure strategy and mixed strategy equilibria.</p>
+
+<p><br /></p>
+
+<p><strong>Mixed Strategy Nash equilibrium</strong></p>
+
+<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=21dedfc9-e661-4408-b450-adca00fc7c2c&amp;autoplay=false&amp;offerviewer=true&amp;showtitle=false&amp;showbrand=false&amp;captions=false&amp;interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay"></iframe>
+
+<p>The next two video illustrate the notion of mixed strategies using two slightly more involved examples. The first is a game between two players, a consumer who relies on the advice of an expert who can benefit from lying.</p>
+
+<p><br /></p>
+
+<p><strong>Example: Expert Diagnosis</strong></p>
+<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=66ea15fe-33a2-40d9-9c2a-adca01031842&amp;autoplay=false&amp;offerviewer=true&amp;showtitle=false&amp;showbrand=false&amp;captions=false&amp;interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay"></iframe>
+
+<p>The second game is game about the bystander effect, and provides an interesting example of how game theory can help explain seemingly surprising behaviours.</p>
+
+<p><br /></p>
+
+<p><strong>Example: Volunteer’s Dilemma</strong></p>
+<iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=8a55bf41-ef28-4607-a910-adca0108f1e2&amp;autoplay=false&amp;offerviewer=true&amp;showtitle=false&amp;showbrand=false&amp;captions=false&amp;interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay"></iframe>
+
+  </div><a class="u-url" href="/section1/" hidden></a>
+</article>
+
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+        <p class="feed-subscribe">
+          <!-- <a href="/feed.xml">
+            <svg class="svg-icon orange">
+              <use xlink:href="/assets/minima-social-icons.svg#rss"></use>
+            </svg>
+            <span>Subscribe</span>
+          </a> -->
+        </p>
+        <ul class="contact-list">
+          <li class="p-name">Dr. Peter A Wagner</li>
+          <li><a class="u-email" href="mailto:peter.wagner@york.ac.uk">peter.wagner@york.ac.uk</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <p></p>
+      </div>
+    </div>
+
+    <div class="social-links"><ul class="social-media-list"></ul>
+</div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>

@@ -1,0 +1,16 @@
+current directory: /Users/paw522/Documents/GitHub/MathEcon2022/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/paw522/.rbenv/versions/3.1.3/bin/ruby -I /Users/paw522/.rbenv/versions/3.1.3/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/paw522/Documents/GitHub/MathEcon2022/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230120-51506-x0scyg sitelibdir\=./.gem.20230120-51506-x0scyg clean
+
+current directory: /Users/paw522/Documents/GitHub/MathEcon2022/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230120-51506-x0scyg sitelibdir\=./.gem.20230120-51506-x0scyg
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/paw522/Documents/GitHub/MathEcon2022/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20230120-51506-x0scyg sitelibdir\=./.gem.20230120-51506-x0scyg install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20230120-51506-x0scyg
