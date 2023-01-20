@@ -1,10 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-01-20T11:47:30+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mathematical Economics</title><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><entry><title type="html">Section 5: Review of foundational concepts</title><link href="http://localhost:4000/section5/" rel="alternate" type="text/html" title="Section 5: Review of foundational concepts" /><published>2023-01-17T00:00:00+00:00</published><updated>2023-01-17T00:00:00+00:00</updated><id>http://localhost:4000/section5</id><content type="html" xml:base="http://localhost:4000/section5/">&lt;h3 id=&quot;lecture-videos&quot;&gt;Lecture Videos&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-01-20T12:08:11+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mathematical Economics</title><author><name>Dr. Peter A Wagner</name><email>peter.wagner@york.ac.uk</email></author><entry><title type="html">Section 5: Review of foundational concepts</title><link href="http://localhost:4000/section5/" rel="alternate" type="text/html" title="Section 5: Review of foundational concepts" /><published>2023-01-17T00:00:00+00:00</published><updated>2023-01-17T00:00:00+00:00</updated><id>http://localhost:4000/section5</id><content type="html" xml:base="http://localhost:4000/section5/">&lt;h3 id=&quot;lecture-videos&quot;&gt;Lecture Videos&lt;/h3&gt;
 &lt;p&gt;This week, we will be focusing our attention on a review of some basic concepts from probability theory and statistics. To view the videos in full screen, open them in a new tab.&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;In my first video, I review the notions of probability distributions, discrete and continuous random variables, and expectation.&lt;/li&gt;
 &lt;/ol&gt;
+
 &lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=70b79d00-fe67-42bb-a082-acb3013da51b&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
 &lt;ol&gt;
   &lt;li&gt;In my second video, I revisit the notion of conditional probability, and Bayes’ rule and  independence.&lt;/li&gt;
 &lt;/ol&gt;
@@ -27,11 +29,12 @@
 &lt;p&gt;This week, we will be looking at “Bayesian games” which are strategic games in which players have private information. After a quick detour into some modelling aspects, we look at general definitions and how to solve for equilibria. To view the videos in full screen, open them in a new tab.&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;In the &lt;em&gt;first video&lt;/em&gt;, I talk about the notion of “types” which we use to represent the players’ different states of knowledge in strategic games.&lt;/p&gt;
+  &lt;li&gt;In the &lt;em&gt;first video&lt;/em&gt;, I talk about the notion of “types” which we use to represent the players’ different states of knowledge in strategic games.&lt;/li&gt;
+&lt;/ol&gt;
 
-    &lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=0c94f52e-d0bf-4e86-9616-acba012115a8&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
-  &lt;/li&gt;
+&lt;p&gt;&lt;iframe src=&quot;https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=0c94f52e-d0bf-4e86-9616-acba012115a8&amp;amp;autoplay=false&amp;amp;offerviewer=true&amp;amp;showtitle=false&amp;amp;showbrand=false&amp;amp;captions=false&amp;amp;interactivity=all&quot; height=&quot;405&quot; width=&quot;720&quot; style=&quot;border: 1px solid #464646;&quot; allowfullscreen=&quot;&quot; allow=&quot;autoplay&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;In the &lt;em&gt;second video&lt;/em&gt;, I walk you through a first example of a strategic game I call the “meeting game” (which may or may not be inspired by my wife’s weekly meetings with her highly motivated running buddy). The first step is to observe that strategic games with incomplete information are indeed equivalent to extensive games with unobservable actions and moves by Nature. In this sense, the notion of Nash equilibrium that you have seen before can be readily applied. I show you how to find the (pure strategy Nash equilibrium) for this game.&lt;/p&gt;
 

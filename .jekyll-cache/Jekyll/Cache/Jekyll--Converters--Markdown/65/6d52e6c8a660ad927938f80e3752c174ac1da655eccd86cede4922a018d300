@@ -1,11 +1,13 @@
-I"{
+I"}
 <h3 id="lecture-videos">Lecture Videos</h3>
 <p>This week, we will be focusing our attention on a review of some basic concepts from probability theory and statistics. To view the videos in full screen, open them in a new tab.</p>
 
 <ol>
   <li>In my first video, I review the notions of probability distributions, discrete and continuous random variables, and expectation.</li>
 </ol>
+
 <p><iframe src="https://york.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=70b79d00-fe67-42bb-a082-acb3013da51b&amp;autoplay=false&amp;offerviewer=true&amp;showtitle=false&amp;showbrand=false&amp;captions=false&amp;interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay"></iframe></p>
+
 <ol>
   <li>In my second video, I revisit the notion of conditional probability, and Bayes’ rule and  independence.</li>
 </ol>
